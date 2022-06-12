@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-05T23:59:57">
+  <properties>
+    <titles>
+      <title>Idzie mój Pan</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><chord name="E"/>Id<chord name="A"/>zi[(G]e m<chord name="C)"/>ój Pan, idzie mój Pan<br/><chord name="E"/>ju<chord name="A"/>ż [(G]bli<chord name="C)"/>sko Jest we drzwiach<br/><chord name="E"/>Id<chord name="A"/>zi[(G]e m<chord name="C)"/>ój Pan, idzie mój Pan<br/><chord name="E"/>ju<chord name="A"/>ż [(G]bli<chord name="C)"/>sko Jest we drzwiach.<br/><chord name="C"/>To<chord name="D"/> J<chord name="G"/>ezus, idzie, już słuszę Jego głos, (jak dzwon)<br/><chord name="C"/>to<chord name="D"/> J<chord name="G"/>ezus, to idzie mój Pan.<br/><chord name="C"/>Id<chord name="D"/>zi<chord name="G"/>e mój Pan, idzie mój Pan<br/><chord name="C"/>ju<chord name="D"/>ż <chord name="G"/>blisko Jest we drzwiach.</lines>
+    </verse>
+  </lyrics>
+</song>

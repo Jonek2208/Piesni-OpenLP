@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:00:00">
+  <properties>
+    <titles>
+      <title>O Panie chcę Ci śpiewać pieśń</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Panie chcę Ci śpiewać pieśń /x2<br/><br/>Chwały pieśń chcę wielbić<br/>Imię Twe w każdy dzień<br/><br/>Alleluja, alleluja,<br/>Alleluja, alleluja<br/><br/>Aaa leee luuu jaaa</lines>
+    </verse>
+  </lyrics>
+</song>

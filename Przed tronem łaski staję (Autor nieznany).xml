@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:00:01">
+  <properties>
+    <titles>
+      <title>Przed tronem łaski staję</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Przed tronem łaski staję<br/>By przyjąć pomoc Twą<br/>Panie potrzebuję Cię<br/>Szukam twarzy twej</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ojcze dziś przychodzę<br/>Przez Chrystusa krew<br/>Składam Ci w ofierze<br/>Całe życie me</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Boże chwały, Boże mocy, majestatu</lines>
+    </verse>
+  </lyrics>
+</song>

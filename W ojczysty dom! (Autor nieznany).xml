@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:02:05">
+  <properties>
+    <titles>
+      <title>W ojczysty dom!</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+    <songbooks>
+      <songbook name="Śpiewnik Pielgrzyma" entry="588"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>W ojczysty dom!<br/>- w mym sercu wciąż rozbrzmiewa<br/>I tli jak ogień tęskna żałość ta;<br/>Z tej ziemi się ma dusza tam dobywa,<br/>Gdzie cel mych dążeń i nadzieja ma.<br/>W ojczysty dom!<br/>Gdy w pośród cichej nocy<br/>Gwiazdeczki mile uśmiechają się,<br/>O Stworzyciela świadczą mi wszechmocy,<br/>I Jego chwale, w której będę z Nim.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>W ojczysty dom!<br/>- bo ziemia ta obczyzną,<br/>Tu tylko chwilę gościem zostać śmiem.<br/>Jak wody prąd odwilżą glebę żyzną,<br/>Tak mnie nadzieja krzepi nocą, dniem.<br/>W ojczysty dom!<br/>Ach, co za radość będzie,<br/>Gdy rzeczywistość tam zobaczę raz,<br/>Gdy będę mógł stać w odkupionych rzędzie,<br/>Gdzie Królem Chrystus jest po wszystek czas.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Przecudny jest to gród!<br/>Do niego serce lgnie,<br/>Tam biegną pieśni moje,<br/>Tam mych myśli lot.<br/>Mój kraj ojczysty tam,<br/>Gdzie już nie wniknie kłam;<br/>Wnet stanę już u jego złotych bram.</lines>
+    </verse>
+  </lyrics>
+</song>

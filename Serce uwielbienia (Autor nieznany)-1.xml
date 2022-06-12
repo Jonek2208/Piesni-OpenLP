@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:00:02">
+  <properties>
+    <titles>
+      <title>Serce uwielbienia</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kiedy cichnie dźwięk, wszystko znika gdzieś, pozostaję sam,<br/>Pragnę przynieść Ci coś, co godne jest dotknąć serce Twe.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Chcę dać Ci więcej niż pieśń,<br/>Muzyka sama w sobie nie, nie jest tym czego Ty chcesz.<br/>Ty słyszysz więcej niż to, to co słyszę ja sam,<br/>Przenikasz serce me w głąb.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wracam do serca uwielbienia,<br/>Pragnę widzieć Twą twarz, widzieć Twą Twarz, Panie.<br/>Wybacz mi to co zasmuca Ciebie,<br/>Pragnę widzieć Twą twarz, widzieć Twą Twarz, Panie.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nawet wiele słów nie opisze Cię, blasku chwały Twej.<br/>Ja zaś wobec niej nikim jestem wręcz,<br/>Jednak cały jestem Twój.</lines>
+    </verse>
+  </lyrics>
+</song>

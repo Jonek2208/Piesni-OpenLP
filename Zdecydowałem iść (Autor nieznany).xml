@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:01:29">
+  <properties>
+    <titles>
+      <title>Zdecydowałem iść</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+    <songbooks>
+      <songbook name="Śpiewnik Wędrowiec" entry="230"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/ Zdecydowałem iść za Jezusem /x3<br/>/ Nie wrócę już /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>/ Chociaż samotny tą drogą idę /x3<br/>/ Nie wrócę już /x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>/ Ten świat jest za mną, a krzyż przede mną /x3<br/>/ Nie wrócę już /x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>/ Ach zabierz świat ten a daj mi Zbawcę /x3<br/>/ Nie wrócę już /x2</lines>
+    </verse>
+  </lyrics>
+</song>

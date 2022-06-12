@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:01:49">
+  <properties>
+    <titles>
+      <title>Dzień się nachylił, słońca blask już zgasi</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+    <songbooks>
+      <songbook name="Śpiewnik Pielgrzyma" entry="663"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dzień się nachylił, słońca blask już zgasi.<br/>Najsłodszy Panie, Duchem nawiedź nas!<br/>Pragniemy Ciebie, boś Ty szczęścia zdrój;<br/>Obdarzasz światłem, koisz życia znój.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ty, Panie, wołasz, cicho prosisz Sam,<br/>By iść za Tobą do niebieskich bram.<br/>Brzemię Twe lekkie, jarzmo wdzięczne jest,<br/>Twarz zapłakaną Ty ocierasz z łez.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dar Twej miłości w łasce na nas zlej,<br/>Składamy Tobie serca nasze złe,<br/>- W pokorze szczerej otwieramy Ci<br/>Podwoje duszy, pełni świętej czci.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szum wichrów, ogień, oraz grzmotów huk<br/>Zdradza z oddali ślady Twoich dróg,<br/>Lecz gdy przechodzisz, słyszym cichy głos,<br/>A wtedy głowy swe schylamy w proch</lines>
+    </verse>
+  </lyrics>
+</song>

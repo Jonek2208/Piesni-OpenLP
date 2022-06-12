@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-03-06T08:50:53">
+  <properties>
+    <titles>
+      <title>Pan mnie strzeże</title>
+    </titles>
+    <verseOrder>v1 c1 v1 c1 v1 c1</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/Pan mnie strzeże<br/>Pan mnie strzeże<br/>Czuwa nade mną Bóg<br/>On jest moim cieniem /x2</lines>
+    </verse>
+    <verse name="c1">
+      <lines>/Czuwa nade mną Bóg<br/>Czuwa nade mną Bóg<br/>Czuwa nade mną Bóg<br/>Mój Bóg /x2</lines>
+    </verse>
+  </lyrics>
+</song>

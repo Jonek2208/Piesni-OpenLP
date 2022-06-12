@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-05T23:59:55">
+  <properties>
+    <titles>
+      <title>Chcę Panie sławić Cię wciąż</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/ Chcę Panie sławić Cię wciąż<br/>Bo Ty dźwignąłeś mnie wzwyż<br/>Zamieniłeś w radość moje łzy. /x2<br/><br/>/ Z wdzięcznością wołam i nie mogę milczeć,<br/>Już na wieki sławić będę imię Twe. /x2 /X3</lines>
+    </verse>
+  </lyrics>
+</song>

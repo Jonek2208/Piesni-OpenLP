@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-03-20T11:11:21">
+  <properties>
+    <titles>
+      <title>Czemu ja?</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+    <songbooks>
+      <songbook name="Śpiewnik Wędrowiec" entry="247"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Czemu ja? Cóż ja mogłem Ci dać?<br/>Czym zasłużyć na dar jaki Ty dałeś mi?<br/>Powiedz mi, co zrobiłem, że Ty<br/>Twą dobrocią bez miar Obsypujesz mnie tak?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wypróbuj mnie! Jeśli chcesz Panie mój<br/>Pójdę z Tobą przez świat, aby spłacić mój dług.<br/>Pomóż mi, znajdę takich jak ja<br/>Zanim odkryłem Cię, przyprowadzę ich tu</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Pomóż mi Jezu, straciłem tak wiele<br/>Wiem teraz kim jestem sam.<br/>Teraz już wiem jaki byłem bez Ciebie<br/>Więc Jezu oddaję Ci się.</lines>
+    </verse>
+  </lyrics>
+</song>

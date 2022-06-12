@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:02:07">
+  <properties>
+    <titles>
+      <title>Z dwóch serc, o Panie, jedno stwórz</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+    <songbooks>
+      <songbook name="Śpiewnik Pielgrzyma" entry="855"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Z dwóch serc, o Panie, jedno stwórz,<br/>Swą rękę na nie włóż,<br/>By odtąd jednym było już.<br/>Wśród życia tego burz.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dziś ich przymierze stwierdzić chciej<br/>I w Swej opiece miej,<br/>Od pokus złego Panie chroń<br/>I Ducha daj im broń.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dwie myśli w jedno zechciej spleść,<br/>W ich życiu przy nich stój,<br/>Niebieską manną Sam ich żyw.<br/>Ze Skały wodą pój.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Młodymi, Panie, kieruj Sam,<br/>I w ich rodzinie rządź,<br/>I prowadź ich do niebios bram,<br/>Do śmierci z nimi bądź</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Miłością Swą otaczaj wciąż,<br/>Miłością Swą ogrzewaj wciąż,<br/>By miłość ich nie gasła w nich,<br/>A wiary jasny płonął znicz.</lines>
+    </verse>
+  </lyrics>
+</song>

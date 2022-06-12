@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-05T23:59:59">
+  <properties>
+    <titles>
+      <title>Mówię to, co czuję</title>
+    </titles>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mówię to, co czuję,<br/>czego pragnie serce me,<br/>co w mym życiu pierwszym jest,<br/>To chwała dla Jezusa.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nie chcę siedzieć w domu,<br/>ogień we mnie płonie,<br/>chcę powiedzieć wszystkim, że<br/>Tak bardzo kocham Ciebie</lines>
+    </verse>
+    <verse name="v3">
+      <lines>To jest przebudzenie,<br/>Tylko to pragnienie,<br/>Szukać i spotykać Cię,<br/>Zamiast spać i jeść</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Po ulicach chodzę,<br/>Myślę wciąż o Tobie,<br/>Każde miejsce, każdy dzień<br/>Krzyczy razem ze mną:<br/>KOCHAM CIĘ</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ja kocham Jezusa<br/>Tylko Jezus serce me porusza<br/>Ja kocham Jezusa<br/>I to jedno wiem, z nim najlepiej jest<br/>Ja kocham Jezusa,<br/>tylko Jezus serce me porusza<br/>Ja kocham Jezusa<br/>On Kocha mnie</lines>
+    </verse>
+  </lyrics>
+</song>

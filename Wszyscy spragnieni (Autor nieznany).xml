@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:00:04">
+  <properties>
+    <titles>
+      <title>Wszyscy spragnieni</title>
+    </titles>
+    <verseOrder>v1 c1</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>WSZYSCY SPRAGNIENI W SŁABOŚCI SWEJ<br/>PRZYJDŹCIE DO ŹRÓDŁA, BY ZANURZYĆ SWE SERCA W NIM<br/>ODRZUĆ BÓLE I SMUTKI DAJ OBYMĆ SIĘ<br/>W WODACH JEGO MIŁOŚCI, MOŻESZ GŁĘBIEJ ZANURZYĆ SIĘ</lines>
+    </verse>
+    <verse name="c1">
+      <lines>/WOŁAM PANIE JEZU PRZYJDŹ/x2<br/><br/>/WOŁAM DUCHU ŚWIĘTY PRZYJDŹ/x2</lines>
+    </verse>
+  </lyrics>
+</song>

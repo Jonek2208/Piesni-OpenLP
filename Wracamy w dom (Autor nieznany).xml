@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:02:06">
+  <properties>
+    <titles>
+      <title>Wracamy w dom</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+    <songbooks>
+      <songbook name="Śpiewnik Pielgrzyma" entry="585"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wracamy w dom, w Ojcowski dom.<br/>Dziś może dojdziemy jeszcze.<br/>Przeminą łzy, grzechowe sny,<br/>Cierpienia, bólu dreszcze.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>U jasnych tam perłowych bram,<br/>Przez błonia te słoneczne.<br/>Popłynie śpiew, cudowny wiew<br/>I uwielbienie wieczne.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tam bojów, łez i cierpień kres,<br/>Na Boże czeka dzieci.<br/>W Ojczysty gród do wiecznych gód<br/>Stęskniona dusza wzleci.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O bramo łask, jak cudny blask!<br/>Ojczyzno ty wspaniała.<br/>Nadziejo dusz, na wieki już,<br/>Złamana wroga strzała.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Wracamy w dom,<br/>Dziś może dojdziemy jeszcze,<br/>Tam nie ma łez,<br/>Minęły bólu dreszcze.</lines>
+    </verse>
+  </lyrics>
+</song>

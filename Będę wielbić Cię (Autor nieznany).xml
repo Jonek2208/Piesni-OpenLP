@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-05T23:59:54">
+  <properties>
+    <titles>
+      <title>Będę wielbić Cię</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Będę wielbić Cię<br/>Będę śpiewać Ci pieśń<br/>I wywyższać Imię Twe<br/>Bowiem Bogiem Tyś innego nie ma nie<br/>Drogą jesteś mą<br/>Tylko Ty życiem darzysz mnie<br/>Tylko Ty nie opuścisz mnie<br/>Imię Twe Książę Pokoju brzmi<br/>Tylko Ty doprowadzisz mnie<br/>Bogiem tylko Ty</lines>
+    </verse>
+  </lyrics>
+</song>

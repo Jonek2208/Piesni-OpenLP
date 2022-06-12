@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:01:52">
+  <properties>
+    <titles>
+      <title>Jakie drogie dziś chwile zgotował Bóg nam</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+    <songbooks>
+      <songbook name="Śpiewnik Pielgrzyma" entry="VI"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jakie drogie dziś chwile<br/>Zgotował Bóg nam,<br/>Bracia, siostry,<br/>Widzimy się znów!<br/>/ O, jak błogo, że Zbawca<br/>Jest Duchem tu Sam,<br/>Chcemy Jego<br/>Posłuchać więc Słów. /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jakże miło się spotkać<br/>Przed Panem tu znów,<br/>W sercu świata<br/>Ucieszył się gwar.<br/>/ Jakie szczęście,<br/>Gdy nami kieruje Sam Pan;<br/>O jak cudny,<br/>Jak błogi to stan! /x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pielgrzymują na Syjon<br/>Spoczniemy dziś znów<br/>U wód życia,<br/>Chłodzących nasz znój;<br/>/ Na "Taborze" tak błogo,<br/>Lecz zejsć trzeba w dół,<br/>Dalej z grzechem<br/>I kłamstwem wieść bój. /x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>W społeczności tej świętej<br/>Tak błogo nam być,<br/>Gdzie życiowy<br/>Ukoił się już ból;<br/>/ Czym oaza w pustyni,<br/>Schronisko wśród gór,<br/>Tym dla duszy<br/>W tym świecie jest Zbór. /x2</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Doznajemy tu łaski,<br/>Pan bliski jest nam,<br/>W Jego mocy<br/>Kroczymy przez świat;<br/>/ Pod sztandarem miłości<br/>Nasz śpiew raźniej brzmi;<br/>Gdy do raju<br/>Otwarte są drzwi. /x2</lines>
+    </verse>
+  </lyrics>
+</song>

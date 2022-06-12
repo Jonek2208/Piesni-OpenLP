@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:02:00">
+  <properties>
+    <titles>
+      <title>Panie, wysłuchać modłów chciej</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+    <songbooks>
+      <songbook name="Śpiewnik Pielgrzyma" entry="083"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Panie, wysłuchać modłów chciej!<br/>Tylko Tyś naszą siłą.<br/>Łaski strumienie na nas zlej,<br/>Ujrzeć daj nam jeszcze dziś-</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Panie miłości, na nas bacz,<br/>Kornie prosimy Ciebie;<br/>W sercu przeszkody zniszczyć racz,<br/>Ześlij obfite nam dziś-</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Panie, wierzymy w moc Twych, słów.<br/>Spełnij Swe obietnice,<br/>Łaski strumienie ześlij znów,<br/>Dajże nam pić jeszcze dziś-</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Łaski strumienie,<br/>Strumienie żywe!<br/>Twoich łask strumienie<br/>Ześlij jeszcze dziś!</lines>
+    </verse>
+  </lyrics>
+</song>

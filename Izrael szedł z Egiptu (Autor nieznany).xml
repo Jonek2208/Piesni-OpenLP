@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:01:24">
+  <properties>
+    <titles>
+      <title>Izrael szedł z Egiptu</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+    <songbooks>
+      <songbook name="Śpiewnik Wędrowiec" entry="092"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Izrael szedł z Egiptu ziem,<br/>Chce iść naród mój.<br/>Bo nie mógł żyć gnieciony złem,<br/>Chce iść naród mój.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nie wstrzymuj ich, powiedział Pan,<br/>Chce iść naród mój.<br/>Ty syna masz, ja piorun mam.<br/>Chce iść naród mój.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Skończony już niewoli dzień<br/>Chce iść naród mój.<br/>Zapomnąć chcą piramid cień,<br/>Chce iść naród mój.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nie szczędził Pan wskazówek swych,<br/>Chce iść naród mój.<br/>I Mojżesz tak prowadził ich,<br/>Chce iść naród mój.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Gdy przeszli już przez morskie dno,<br/>Chcę iść naród mój.<br/>Dziękczynną pieśń śpiewali swą,<br/>Chce iść naród mój.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ruszył Mojżesz, szli z nim z Egiptu pól,<br/>Powiedz władcy, chce iść naród mój.</lines>
+    </verse>
+  </lyrics>
+</song>

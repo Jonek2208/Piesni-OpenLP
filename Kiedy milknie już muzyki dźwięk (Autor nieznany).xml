@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-05-08T07:39:01">
+  <properties>
+    <titles>
+      <title>Kiedy milknie już muzyki dźwięk</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v2 v3</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kiedy milknie już muzyki dźwięk tylko cisza gra<br/>Siadam u Twych stóp pragnąc przynieść Ci<br/>Uwielbienia pieśń</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Przynoszę więcej niż pieśń więcej niż tylko dźwięk<br/>Wiem nie wystarczy Ci on<br/>Ty słyszysz więcej niż to co słyszalne dla nas jest<br/>Ty słyszysz serca głos</lines>
+    </verse>
+    <verse name="v3">
+      <lines>/Więc wracam do źródła uwielbienia<br/>A jesteś nim Ty, Ty Panie jesteś nim<br/>Nie chce przynosić już nic innego<br/>Jak tylko to kim, kim w tobie jestem Panie/ x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Królu proszę weź całe życie me nadaj jemu sens<br/>Bo choć słabe i tak małe ciągle jest<br/>Proszę przyjmij je</lines>
+    </verse>
+  </lyrics>
+</song>

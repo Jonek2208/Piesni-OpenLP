@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:02:02">
+  <properties>
+    <titles>
+      <title>Przed Twym otłarzem łask</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+    <songbooks>
+      <songbook name="Śpiewnik Pielgrzyma" entry="741"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Przed Twym otłarzem łask,<br/>Ja korzę się,<br/>Zlej Twojej chwały blask,<br/>Wysłuchaj mię.<br/>Rozpocznij święty trud,<br/>Duszy mej obmyj brud;<br/>Pozostań dla mnie wciąż,<br/>Światłością taż.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ze skruchą przed Twój tron,<br/>Przychodzę dziś,<br/>Niech wiary święty ton<br/>Przenika myśl.<br/>Twa śmierć jest życiem mym,<br/>Zwycięstwem w świecie złym.<br/>A potem będę tam,<br/>Gdzie jesteś Sam.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jam cichy słyszał głos,<br/>Jak słodki ton,<br/>Ze brud mój zmyła krew,<br/>Przebaczył On!<br/>Zwątpieniom kładziesz kres,<br/>Już tu w dolinie łez,<br/>Osładza ciężki znój Zbawiciel mój</lines>
+    </verse>
+  </lyrics>
+</song>

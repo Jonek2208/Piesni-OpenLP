@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-05-08T08:10:47">
+  <properties>
+    <titles>
+      <title>Chodź to czas</title>
+    </titles>
+    <verseOrder>v1 c1 v1 c2 v1</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>CHODŹ TO CZAS BY WIELBIĆ PANA<br/>CHODŹ TO CZAS BY DAĆ MU SERCE SWE<br/>CHODŹ TAKI JAK JESTEŚ BY WIELBIĆ<br/>CHODŹ TAKI JAK JESTEŚ PRZED BOGIEM STAŃ<br/>CHODŹ</lines>
+    </verse>
+    <verse name="c1">
+      <lines>KAŻDY JĘZYK WYZNA, ŻE TYŚ PANEM JEST<br/>KAŻDY CZŁOWIEK POKŁONI SIĘ<br/>LECZ NAGRODĘ WIELKĄ ODBIERZE TEN<br/>KTO WYBRAŁ CIEBIE DZIŚ</lines>
+    </verse>
+    <verse name="c2">
+      <lines>/ KAŻDY JĘZYK WYZNA, ŻE TYŚ PANEM JEST<br/>KAŻDY CZŁOWIEK POKŁONI SIĘ<br/>LECZ NAGRODĘ WIELKĄ ODBIERZE TEN<br/>KTO WYBRAŁ CIEBIE DZIŚ /×2</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-05T23:59:55">
+  <properties>
+    <titles>
+      <title>byłem kiedyś sam</title>
+    </titles>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>BYŁEM KIEDYŚ SAM, AŻ PRZYSZEDŁ DO MNIE PAN,<br/>ROZPROSZYŁ SMUTKU CIENIE I WIECZNE DAŁ ZBAWIENIE</lines>
+    </verse>
+    <verse name="v2">
+      <lines>SZEDŁEM DROGĄ ZŁĄ, LECZ PAN POKIEROWAŁ MNĄ,<br/>ON PODAŁ MI SWE DŁONIE<br/>I WIÓDŁ PRZEZ ŻYCIA TONIE</lines>
+    </verse>
+    <verse name="v3">
+      <lines>TERAZ ŻYJĘ Z NIM, ON JEST POKOJEM MYM,<br/>ME SERCE SIĘ RADUJE I PANU WYKRZYKUJE</lines>
+    </verse>
+    <verse name="c1">
+      <lines>MÓJ PAN ZAWSZE ZE MNĄ JEST,<br/>NIE OPUŚCI MNIE,<br/>W CHWILI DOBREJ JAK I ZŁEJ,<br/>ON JEST PRZYJACIELEM MYM I BARDZO CHCE<br/>BY DO KOŃCA WIÓDŁ PRZEZ ŻYCIE MNIE</lines>
+    </verse>
+  </lyrics>
+</song>

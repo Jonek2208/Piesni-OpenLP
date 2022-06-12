@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:00:03">
+  <properties>
+    <titles>
+      <title>uwielbiam imię twoje Panie 55</title>
+    </titles>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/UWIELBIAM IMIĘ TWOJE PANIE<br/>WYWYŻSZAM CIĘ I DAJĘ CI HOŁD<br/>W PRZEDSIONKU CHWAŁY TWEJ STAJĘ<br/>Z RADOŚCI ŚPIEWAM CI PIEŚŃ /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>/O PANIE JEZU CHCĘ WYZNAĆ, ŻE<br/>JA KOCHAM CIEBIE, TY ZMIENIASZ MNIE<br/>CHCĘ CI DZIĘKOWAĆ DZIŚ ZE WSZYSTKICH SIŁ<br/>DAJESZ MI SIEBIE, BYM NA WIEKI ŻYŁ/ x2</lines>
+    </verse>
+  </lyrics>
+</song>

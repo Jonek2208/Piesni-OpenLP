@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:01:47">
+  <properties>
+    <titles>
+      <title>Chcę o Jezusie moim śpiewać</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>P.P. Bliss</author>
+    </authors>
+    <songbooks>
+      <songbook name="Śpiewnik Pielgrzyma" entry="005"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Chcę o Jezusie moim śpiewać,<br/>Wysławiać wielką Jego moc,<br/>Śpiewać o Jego mękach gorzkich,<br/>W których zwyciężył śmierci noc.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Chcę cudownego ja wysławić<br/>Grzeszników Przyjaciela w głos.<br/>Z bogiem łaskawie mię pojednał,<br/>Światło niebieskie w duszę wniósł.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Drogiego Zbawcę chcę uwielbiać;<br/>To jest ów niezliczony Wódz.<br/>Zwycięsko Swoich przeprowadzi,<br/>Grzech, śmierć i piekło da im zmóc.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Wysławiajcie mego Jezusa,<br/>Miłość i wielką Jego moc,<br/>Nućcie o Jego mękach gorzkich,<br/>W których zwyciężył śmierci noc.</lines>
+    </verse>
+  </lyrics>
+</song>

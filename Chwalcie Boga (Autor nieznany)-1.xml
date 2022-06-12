@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:01:22">
+  <properties>
+    <titles>
+      <title>Chwalcie Boga</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+    <songbooks>
+      <songbook name="Śpiewnik Wędrowiec" entry="148"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Chwalcie Boga dziś w Świątyni Jego<br/>Chwalcie Go na wielkim nieboskłonie<br/>Chwalcie Go, bo wielkich dzieł dokonał<br/>Chwalcie niezmierzoną wielkość Jego!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Chwalcie Boga dziś na głośnych trąbach<br/>Chwalcie Go na harfie i na cytrze<br/>Chwalcie Boga bębnem i pląsaniem<br/>Chwalcie Go na strunach i na flecie</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Chwalcie Boga na cymbałach dźwięcznych<br/>Chwalcie Boga na cymbałach głośnych!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Wszystko, co życie ma<br/>Niech chwali Pana<br/>O, Alleluja! Alleluja! / 2x</lines>
+    </verse>
+  </lyrics>
+</song>

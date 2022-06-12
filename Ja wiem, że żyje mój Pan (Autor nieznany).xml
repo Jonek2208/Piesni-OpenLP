@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:01:24">
+  <properties>
+    <titles>
+      <title>Ja wiem, że żyje mój Pan</title>
+    </titles>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+    <songbooks>
+      <songbook name="Śpiewnik Wędrowiec" entry="024"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ja wiem, że żyje mój Pan zmartwychwstały,<br/>Alleluja!<br/>Ja wiem, że żyje mój Pan, mój Zbawiciel,<br/>Z grobu wstał!<br/>Ja wiem, że żyje mój Pan zmartwychwstały,<br/>Alleluja!<br/>On zmartwychwstał i powróci wkrótce tu znów.</lines>
+    </verse>
+  </lyrics>
+</song>

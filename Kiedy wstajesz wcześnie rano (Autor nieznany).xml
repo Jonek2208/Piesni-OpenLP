@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-05T23:59:58">
+  <properties>
+    <titles>
+      <title>Kiedy wstajesz wcześnie rano</title>
+    </titles>
+    <verseOrder>c1 v1 v2 c1 v3 v4 c1 b1</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>KIEDY WSTAJESZ WCZEŚNIE RANO<br/>KIEDY SŁOŃCE BUDZI CIĘ<br/>TO JEST POWÓD BY DZIĘKOWAĆ<br/>JEZUSOWI ODDAĆ CZEŚĆ x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>KIEDY SIEDZISZ W MARYLINIE<br/>I RADOŚNIE PŁYNIE CZAS<br/>ZACZNIJ ŚPIEWAĆ Z ANIOŁAMI<br/>OTWÓRZ USTA W DŁONIE KLASZCZ x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>KIEDY TATA CIĘ ZAPRASZA<br/>KIEDY MÓWI KOCHAM CIĘ<br/>PODAJ JEMU SWOJĄ RĘKĘ<br/>ON PRZYTULI MOCNO CIĘ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>KTO JEST TATĄ TEGO LATA<br/>ZACZNIJ SŁUCHAĆ POWIEM CI<br/>TO ZBAWICIEL PAN WSZECHŚWIATA<br/>JEZUS CHRYSTUS MÓWIĘ CI</lines>
+    </verse>
+    <verse name="c1">
+      <lines>WSTAŃ O WSTAŃ I ODDAJ CZEŚĆ<br/>WSTAŃ O WSTAŃ, RĘCE WZNIEŚ<br/>WSTAŃ O WSTAŃ, UŚMIECHNIJ SIĘ<br/>WSTAŃ I TAŃCZ, ON TU JEST</lines>
+    </verse>
+    <verse name="b1">
+      <lines>/TATAnaLATA/ x3<br/>TO MÓJ BÓG<br/>TO JEST TWÓJ TATA, TATAnaLATA<br/>BÓG OJCIEC, SYN I JEGO DUCH</lines>
+    </verse>
+  </lyrics>
+</song>

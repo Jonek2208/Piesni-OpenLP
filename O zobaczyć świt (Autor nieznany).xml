@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:00:00">
+  <properties>
+    <titles>
+      <title>O zobaczyć świt</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O zobaczyć świt<br/>Najciemniejszych z dni<br/>Chrystus na drodze Golgoty<br/>Umęczony tak<br/>Bity, pluty w twarz<br/>Zawisł na krzyżu tam</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oto moc jego krwi<br/>Chrystus Pan przelał ją<br/>Zmazał grzech, poniósł gniew<br/>A my stoimy wolni już</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O zobaczyć ból<br/>Wryty w Jego twarz<br/>Niosąc ten wielki ciężar win<br/>Każdą gorzką myśl<br/>Każdy zły nasz czyn<br/>Mając na czole ślady krwi</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Światło blednie już<br/>Ziemia trzęsie się<br/>Gdy jego stwórca traci dech<br/>Zasłona pęka w dwie<br/>Martwi budzą się<br/>Słychać zwycięstwa krzyk</lines>
+    </verse>
+  </lyrics>
+</song>

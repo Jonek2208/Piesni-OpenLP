@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-05-29T08:13:00">
+  <properties>
+    <titles>
+      <title>Dom jaśniejszy</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v1 c1</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+    <songbooks>
+      <songbook name="Śpiewnik Wędrowiec" entry="108"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jezu, mój Zbawco, pamiętaj o mnie sam<br/>Jezu, mój Zbawco, pamiętaj o mnie sam<br/>Jezu, mój Zbawco, pamiętaj o mnie sam<br/>Wśród niebiańskich chwał.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Dom jaśniejszy, niż blask słońca<br/>Już czeka mnie<br/>Dom jaśniejszy, niż blask słońca<br/>Już czeka mnie<br/>Dom jaśniejszy, niż blask słońca<br/>Już czeka mnie<br/>Wśród niebiańskich chwał.</lines>
+    </verse>
+  </lyrics>
+</song>

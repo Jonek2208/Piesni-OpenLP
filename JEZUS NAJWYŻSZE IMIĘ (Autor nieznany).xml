@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-05T23:59:58">
+  <properties>
+    <titles>
+      <title>JEZUS NAJWYŻSZE IMIĘ</title>
+    </titles>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jezus, najwyższe imię D<br/>Nasz Zbawiciel, Książę Pokoju<br/>Emanuel, Bóg jest z nami<br/>Odkupiciel, Słowo Żywota</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Święty Bóg, Mesjasz Prawdziwy<br/>Jedyny Ojca Syn umiłowany<br/>Zgładził grzech Baranek na wieki<br/>Królów Król, Panów Pan</lines>
+    </verse>
+  </lyrics>
+</song>

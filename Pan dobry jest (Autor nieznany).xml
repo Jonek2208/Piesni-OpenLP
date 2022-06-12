@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:00:00">
+  <properties>
+    <titles>
+      <title>Pan dobry jest</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/ Pan dobry jest /x2<br/>Błogosławiony mąż,<br/>Który ufa Mu.<br/><br/>/ Pan dobry jest /x2<br/>Skosztuj i zobacz, że Pan dobry jest</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-05T23:59:54">
+  <properties>
+    <titles>
+      <title>Błogosławię Cię</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 b1 c1</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional"><chord name="V1"/><br/>Błogosławię Cię kiedy ziemia wydaje plon<br/>Gdy obfitość Panie zlewasz swą<br/>Błogosławię Cię<br/>Błogosławię Cię<br/>Gdy pustynia w krąg otacza mnie<br/>Choćbym przez pustynię szedł<br/>Błogosławię Cię</lines>
+      <lines>Za twą łaskę, którą zsysałsz<br/>Ja chwalę Cię<br/>Choćby ciemność mnie przykryła<br/>Ja powiem, że:</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Błogosławię Cię<br/>Kiedy słońca blask oświetla mnie<br/>To, co dajesz mi najlepsze jest<br/>Błogosławię Cię<br/>Błogosławię Cię<br/>Kiedy drogę mojąznaczy cierń<br/>Chociaż cierpię pragnę chwalić Cię<br/>Błogosławię Cię</lines>
+      <lines>Za Twą łaskę, którą zsyłasz<br/>Ja chwalę Cię<br/>Choćby ciemność mnie przykryła<br/>Ja powiem, że:</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Panie, błogosławię imię Twoje<br/>Błogosławię Cię<br/>Panie, błogosławię imię Twoje<br/>Błogosławię święte imnie Twe</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Ty dajesz z Soli Swej<br/>Zabierasz, kiedy chcesz<br/>W mym sercu zawsze chcę<br/>Błogosławić Cię</lines>
+    </verse>
+  </lyrics>
+</song>

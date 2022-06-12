@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:01:51">
+  <properties>
+    <titles>
+      <title>Ja, o Panie, i mój dom</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+    <songbooks>
+      <songbook name="Śpiewnik Pielgrzyma" entry="203"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ja, o Panie, i mój dom<br/>Służyć chcemy Ci w szczerości,<br/>Choćby nawet nieszczęść grom<br/>Spaść miał na nas w doczesności.<br/>Ja przy Tobie będę stał,<br/>Przy Twym słowie zawsze trwał.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Moją sprawą sprawa Twa<br/>Nigdy być już nie przestanie,<br/>Tylko strzeż, gdy chwila zła<br/>Przyjdzie w dom mój niespodzianie,<br/>Bym w modlitwie czujnym był<br/>I w niezłomne] wierze żył.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ty bądź Panem w domu mym,<br/>Pobłogosław mu obficie;<br/>Nie daj złemu rządzić w nim,<br/>Pomóż nam wieść święte życie,<br/>Byśmy byli domem Twym,<br/>Służąc Tobie sercem swym.<br/>Tyś wszystko mi wyjednał Sam,<br/>Więc w wierze ufnej śpieszę tam</lines>
+    </verse>
+  </lyrics>
+</song>

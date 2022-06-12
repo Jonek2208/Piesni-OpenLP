@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-05T23:59:57">
+  <properties>
+    <titles>
+      <title>JEZUS CHRYSTUS ZA MNIE ZMARŁ</title>
+    </titles>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Jezus Chrystus za mnie zmarł<br/>I za ciebie Chrystus zmarł<br/>On za cały świat na krzyżu zmarł<br/>I na Siebie winę wziął.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2.Jezus dla mnie drogą jest<br/>I dla ciebie drogę jest<br/>On do Ojca przeprowadzi nas<br/>On na siebie winę wziął.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3.Jezus Chrystus woła mnie<br/>Jezus Chrystus woła cię<br/>Powstań więc i naśladuj Go<br/>On na Siebie winę wziął</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ref.: Panie dzięki Ci że kochasz mnie Twoja łaska dla mnie jest<br/>Dzięki Ci, że zmyłeś winę mą Ja chcę zawsze z tobą być.</lines>
+    </verse>
+  </lyrics>
+</song>

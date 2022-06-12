@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:00:03">
+  <properties>
+    <titles>
+      <title>U Pana dziś</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>U Pana dziś<br/>Zostawiam troski swe<br/>Oddaję Mu<br/>On chętnie ciężar mój chce nieść.<br/>Składam go u Jego stóp<br/>I ulgę czuję znów<br/>Moje zwątpienia,<br/>strach u Pana składam dziś</lines>
+    </verse>
+  </lyrics>
+</song>

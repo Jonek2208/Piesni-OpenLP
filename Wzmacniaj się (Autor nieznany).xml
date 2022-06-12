@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:02:07">
+  <properties>
+    <titles>
+      <title>Wzmacniaj się</title>
+    </titles>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+    <songbooks>
+      <songbook name="Śpiewnik Pielgrzyma" entry="539"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wzmacniaj się w Panu swym, W sile mocy Jego stój, Sprawy Pańskiej w każdej chwili dzielnie broń! Za nas walczy niebios Pan, Gróźb szatana się nie bój, Zwyciężymy, tylko swą podaj dłoń!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Wzmacniaj się w Panu swym, W sile mocy Jego stój, Trzymaj się chorągwi Jego w czasie burz! I odważnie naprzód krocz, Bo cię wiedzie Zbawca twój, Ufaj Panu swemu, już się nie trwóż!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Wzmacniaj się w Panu swym, W sile mocy Jego stój, Obietnicom Pańskim niezachwianie wierz! Cześć Wodzowi, który wojsk Nie opuści, gdy wre bój, Grodem mocnym jest nasz Bóg, Nim się zbrój!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refr!,: Silno stój, sprawy broń, Sprawy Króla, który wiedzie nas! O cześć Pana swego dbaj, O zwycięstwo dobra walcz, W sile tej wzmacniaj się w każdy czas!</lines>
+    </verse>
+  </lyrics>
+</song>

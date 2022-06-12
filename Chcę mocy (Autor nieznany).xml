@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T08:31:38">
+  <properties>
+    <titles>
+      <title>Chcę mocy</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pragnę wielbić Cię z całego serca,<br/>Pragnę wielbić Cię z całej mej duszy,<br/>Pragnę wielbić Cię z całej mej siły,<br/>Boś Ty Bogiem mym, Tyś Bogiem mym</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tak pragnę już z Tobą być,<br/>Każdego dnia wielbić Cię,<br/>O Panie okaż swą moc,<br/>Bym ludziom radość mógł nieść</lines>
+    </verse>
+    <verse name="c1">
+      <lines>/ Chcę mocy, miłości<br/>Więcej Ciebie w życiu mym /×2</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-05T23:59:55">
+  <properties>
+    <titles>
+      <title>Błogosławię Cię, Skało moja</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><chord name="E"/>Bł<chord name="A"/>og<chord name="H7"/>osł<chord name="E"/>ąwię Cię, Skało moja,<br/><chord name="A"/>Je<chord name="H7"/>ste<chord name="E"/>ś twierdzą i mym zbawieiem.<br/><chord name="H7"/>Bow<chord name="Gis"/>iem Bóg po stronie mej jest<br/><chord name="cis"/>I zw<chord name="A"/>ycięzcą On mnie uczynił,<br/><chord name="Fis"/>Błog<chord name="H7"/>osł<chord name="E"/>ąw[(F]ię <chord name="C)"/>Cię, Skało moja<br/><chord name="A"/>/ <chord name="E"/>Bł<chord name="A"/>og<chord name="E"/>os<chord name="H7"/>ław<chord name="Fis"/>ię C<chord name="H7"/>ię <chord name="Fis"/>/x4[(G]<chord name="D)"/><br/><chord name="Fis"/>Błog<chord name="H7"/>osł<chord name="E"/>aw[(F]ię <chord name="G"/>Ci<chord name="C)"/>ę, Skało moja.</lines>
+    </verse>
+  </lyrics>
+</song>

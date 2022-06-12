@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:02:00">
+  <properties>
+    <titles>
+      <title>Ojcze Niebieski</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+    <songbooks>
+      <songbook name="Śpiewnik Pielgrzyma" entry="764"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ojcze Niebieski,<br/>Boże wszechmocny,<br/>Tyś Pocieszyciel,<br/>Tyś prawdy Duch.<br/>Wszystko widzący,<br/>Wszędzieś obecny,<br/>Bądź między nami,<br/>Otwórz nam słuch.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ojcze Niebieski,<br/>Skarbie łask mnogich!<br/>Nas, Twoje dzieci,<br/>W pamięci miej.<br/>Zamieszkaj w sercach<br/>Naszych ubogich,<br/>Ducha Świętego<br/>Obficie zlej.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ojcze Niebieski,<br/>Zbaw nas od złego,<br/>Szatą weselną<br/>Przyozdób nas,<br/>Niech Twoja łaska,<br/>Ze zdroju wiecznego,<br/>Napełnia serca<br/>Po wszystek czas!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:01:57">
+  <properties>
+    <titles>
+      <title>Nie mogę pojąć, jak Tyś - święty Bóg</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+    <songbooks>
+      <songbook name="Śpiewnik Pielgrzyma" entry="237"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nie mogę pojąć, jak Tyś - święty Bóg<br/>Swą świętą krwią me grzechy zgładzić mógł.<br/>Wiem tylko, że się cud miłości stał,<br/>Żeś za mnie życie dał.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jam życie puste i nikczemne wiódł,<br/>Goryczy pełen, pełen świeckich złud.<br/>Lecz Tyś nade mną wielką litość miał,<br/>Boś za mnie życie dał.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Głębokość niezmierzoną łaski tej<br/>Objawił Jezus mi w miłości Swej,<br/>Że mię wybawić z wszelkiej nędzy chciał<br/>I za mnie życie dał</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Do Ciebie, Panie, ja uciekam się,<br/>Bez zasług mych o łaskę proszę Cię.<br/>Wszak Zbawicielem moim Tyś się stał,<br/>Gdyś za mnie życie dał.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:01:56">
+  <properties>
+    <titles>
+      <title>Na myśl o wieńcu z cierni</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+    <songbooks>
+      <songbook name="Śpiewnik Pielgrzyma" entry="056"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Na myśl o wieńcu z cierni,<br/>Co ranił skronie Twe,<br/>O Zbawco, ból głęboki<br/>I żal przenika mnie.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bo wieniec Twój cierniowy<br/>Spleciony był z mych win,<br/>Za któreś cierpieć musiał,<br/>Ty - Zbawca, Boży Syn.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A każdy grzech, co sercu<br/>Mojemu miłym był,<br/>Ostrym się cierniem bólu<br/>W skroń Twoją, Chryste, wbił.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O Panie Jezu drogi,<br/>W mych oczach żalu łzy,<br/>Lecz w sercu pokój błogi,<br/>Co darowałeś mi.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>By odpuszczenie grzechów<br/>U Ojca zjednać mi,<br/>Cierniowy wieniec wziąłeś<br/>Na skronie, Zbawco, Ty!</lines>
+    </verse>
+  </lyrics>
+</song>

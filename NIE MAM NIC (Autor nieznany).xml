@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-05T23:59:59">
+  <properties>
+    <titles>
+      <title>NIE MAM NIC</title>
+    </titles>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>65<br/>Nie mam nic, co by można Tobie dać<br/>Nie mam sił by przed Tobą Panie stać<br/>Puste ręce przynoszę<br/>Przed Twój w niebie tron<br/>Manną z nieba nakarm duszę mą</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pomaż maścią leczącą oczy me<br/>Spraw by język mój też przemówić chciał<br/>Puste ręce przynoszę<br/>Przed Twój w niebie tron<br/>Manna z nieba nakarm duszę mą</lines>
+    </verse>
+  </lyrics>
+</song>

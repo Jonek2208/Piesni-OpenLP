@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:00:02">
+  <properties>
+    <titles>
+      <title>Skrusz moje serce</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Skrusz moje serce,<br/>Skrusz swą miłością,<br/>Chcę kochać wszystkich,<br/>Kochać jak Ty.<br/>Łzy Twego współczucia,<br/>Niech zwilżą me oczy.<br/>Przyjdź, skrusz moje serce dziś,<br/>O Panie mój.</lines>
+    </verse>
+  </lyrics>
+</song>

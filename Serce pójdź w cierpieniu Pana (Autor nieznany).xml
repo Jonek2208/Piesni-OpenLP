@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:02:03">
+  <properties>
+    <titles>
+      <title>Serce pójdź w cierpieniu Pana</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+    <songbooks>
+      <songbook name="Śpiewnik Pielgrzyma" entry="595"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Serce pójdź w cierpieniu Pana,<br/>Jest dla ciebie studnia dana;<br/>Tu uśmierzysz głód, pragnienie,<br/>We krwi Jego twe zbawienie.<br/>Że posiadam Zbawiciela,<br/>Który dziś mi się udziela<br/>Z Swą zasługą i z Swym strojem,<br/>To radością duszy mojej.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>On naprawdę co dzień moim jest,<br/>Gdy pod krwią Jego stoję,<br/>On w pielgrzymce mej do nieba<br/>Daje codzień duszy chleba<br/><chord name="Ja"/>Źró<chord name="posiadam"/>dłem mego<chord name="Zbawiciela;"/> On wesela,<br/><chord name="Ja"/>I n<chord name="posiadam"/>ic więcej<chord name="Zbawiciela;"/> nie chcę wiedzieć,<br/><chord name="Ja"/>Tyl<chord name="posiadam"/>ko u stóp<chord name="Zbawiciela;"/> Jego siedzieć.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><chord name="Ja"/>Pra<chord name="posiadam"/>gnę z głę<chord name="Zbawiciela;"/>bi serca mego<br/><chord name="Ja"/>Łam<chord name="posiadam"/>ać chleb <chord name="Zbawiciela;"/>u stołu Jego,<br/><chord name="Ja"/>Tu <chord name="posiadam"/>Go dusza <chord name="Zbawiciela;"/>spożyć może,<br/><chord name="Ja"/>Tu <chord name="posiadam"/>w pamięci<chord name="Zbawiciela;"/> swej to złożę,<br/><chord name="Ja"/>Ze <chord name="posiadam"/>posiadam <chord name="Zbawiciela;"/>Zbawiciela,<br/><chord name="Ja"/>Dus<chord name="posiadam"/>zy Oswobo<chord name="Zbawiciela;"/>dziciela;<br/><chord name="Ja"/>Jeg<chord name="posiadam"/>o krzyż i<chord name="Zbawiciela;"/> zmartwychwstanie<br/><chord name="Ja"/>Mą <chord name="posiadam"/>własności<chord name="Zbawiciela;"/>ą pozostanie.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><chord name="Ja"/>Bło<chord name="posiadam"/>gosławion<chord name="Zbawiciela;"/>a Miłości,<br/><chord name="Ja"/>Żeś<chord name="posiadam"/> Ty w Swo<chord name="Zbawiciela;"/>jej mię wierności<br/><chord name="Ja"/>Z w<chord name="posiadam"/>szelkich <chord name="Zbawiciela;"/>zwątpień uwolniła,<br/><chord name="Ja"/>Kie<chord name="posiadam"/>dy ciemno<chord name="Zbawiciela;"/>ść mię okryła;<br/><chord name="Ja"/>Ja <chord name="posiadam"/>posiadam <chord name="Zbawiciela;"/>Zbawiciela,<br/><chord name="Ja"/>Któ<chord name="posiadam"/>ry w śmie<chord name="Zbawiciela;"/>rci się udziela<br/><chord name="Ja"/>I w<chord name="posiadam"/> najgłębs<chord name="Zbawiciela;"/>zą otchłań nocy<br/><chord name="Ja"/>Wsz<chord name="posiadam"/>edł, mię <chord name="Zbawiciela;"/>wyrwać z grzechu mocy.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><chord name="Ja"/>Gdy<chord name="posiadam"/>by mię co<chord name="Zbawiciela;"/>ś trwożyć chciało,<br/><chord name="Ja"/>Gdy<chord name="posiadam"/>by czegoś<chord name="Zbawiciela;"/> brakowało,<br/><chord name="Ja"/>Czy<chord name="posiadam"/> w pokusi<chord name="Zbawiciela;"/>e, czy w chorobie,<br/><chord name="Ja"/>Chc<chord name="posiadam"/>ę to uświ<chord name="Zbawiciela;"/>adomić sobie,<br/><chord name="Ja"/>Ze <chord name="posiadam"/>mam Zbawi<chord name="Zbawiciela;"/>ciela z sobą<br/><chord name="Ja"/>Od <chord name="posiadam"/>kołyski a<chord name="Zbawiciela;"/>ż do grobu,<br/><chord name="Ja"/>Aż <chord name="posiadam"/>do tronu <chord name="Zbawiciela;"/>Jego chwały,<br/><chord name="Ja"/>Gdz<chord name="posiadam"/>ie brzmi <chord name="Zbawiciela;"/>wiecznie hymn wspaniały</lines>
+    </verse>
+  </lyrics>
+</song>

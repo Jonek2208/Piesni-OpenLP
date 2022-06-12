@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-03-17T12:35:23">
+  <properties>
+    <titles>
+      <title>Jezusa krew</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>J. James</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Swój niebiański tron zostawiłeś by<br/>Ziemskie życie wieść nieść haniebny krzyż<br/>By na siebie wziąć winę mą i wstyd<br/>Przebaczenia dar ofiarować mi</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jedynie Ty, Kochany Zbawco<br/>Umarłeś bym ja mógł żyć<br/>Mój każdy dzień zawdzięczam Tobie<br/>Wolność mam w Jezusa krwi</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Z grobu wstałeś, by w niebie zająć tron<br/>Wszystko u Twych stóp Twoja wszelka moc<br/>Całe niebo brzmi pieśnią ku Twej czci<br/>Ziemia woła dziś Panie Jezu przyjdź</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kiedy przyjdzie czas, kiedy spotkam Cię<br/>Gdy objawisz mi piękno twarzy Twej<br/>Padnę do Twych stóp i zaśpiewam pieśń<br/>Baranek godzien jest Przyjąć wszelką cześć</lines>
+    </verse>
+  </lyrics>
+</song>

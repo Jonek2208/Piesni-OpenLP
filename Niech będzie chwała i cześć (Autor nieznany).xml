@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-05T23:59:59">
+  <properties>
+    <titles>
+      <title>Niech będzie chwała i cześć</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Niech będzie chwała i cześć<br/>I uwielbienie,<br/>Chwała i cześć Jezusowi.<br/><br/>Chwała, niech będzie chwała,<br/>Tak, Jemu chwała i cześć!</lines>
+    </verse>
+  </lyrics>
+</song>

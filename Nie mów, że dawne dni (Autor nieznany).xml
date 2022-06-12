@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:01:25">
+  <properties>
+    <titles>
+      <title>Nie mów, że dawne dni</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+    <songbooks>
+      <songbook name="Śpiewnik Wędrowiec" entry="242"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nie mów, że dawne dni<br/>Były lepsze od tych,<br/>Gdyż niemądrze mówić tak.<br/>Ufaj Panu i wierz,<br/>Że On dziś żywy jest,<br/>Nowe błogosławieństwa może zlać.</lines>
+    </verse>
+  </lyrics>
+</song>

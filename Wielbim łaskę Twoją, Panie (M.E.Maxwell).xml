@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:02:06">
+  <properties>
+    <titles>
+      <title>Wielbim łaskę Twoją, Panie</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>M.E.Maxwell</author>
+    </authors>
+    <songbooks>
+      <songbook name="Śpiewnik Pielgrzyma" entry="500"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wielbim łaskę Twoją, Panie,<br/>Żeś nas wyrwał z błędnych dróg,<br/>Żeś oczyścił serc naczynia,<br/>Byś ich w służbie użyć mógł.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Z kruchych naczyń lud spragniony<br/>Żywą wodą, Panie pój;<br/>Coraz więcej je napełniaj,<br/>By nie wyschnął życia zdrój.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wypal świętym Swym płomieniem<br/>Naszych serc nieczysty dzban,<br/>Niech z nich każdy to wyczyta,<br/>Że je w służbę bierze Pan.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O Twej mocy świadczyć chcemy,<br/>Która grzechu pęta rwie;<br/>Na toś wybrał nas, o Panie,<br/>Na to Duch Twój w serca tchnie.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jezu, napełń Duchem Swoim<br/>Poświęcone serca Ci,<br/>By na świat przez nas płynęły<br/>Wody żywe ku Twej czci.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Myśmy tylko kruchym tworem,<br/>Lecz gdy w Swą nas weźmiesz dłoń,<br/>Będziem szerzyć hojnie wkoło<br/>Twej miłości wdzięczną woń.</lines>
+    </verse>
+  </lyrics>
+</song>

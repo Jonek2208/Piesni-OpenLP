@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:00:04">
+  <properties>
+    <titles>
+      <title>Wczesnym rankiem</title>
+    </titles>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wczesnym rankiem trudno oczom wierzyć,<br/>Ze snu jakaś postać jawi się.<br/>Tam gdzie mgły poranne jeszcze leżą,<br/>Ktoś jak gdyby Mistrz, a może cień.<br/>Każdy wypatruje w stronę brzegu,<br/>Szept się niesie: przecież to jest Pan.<br/>Wyjdą, chleb i rybę razem zjedzą,<br/>Piotrowi powie Jezus sam na sam.<br/>Paś owieczki me, i naśladuj Mnie.<br/>Wszędzie gdzie twa droga będzie wieść.<br/>Piotrze czy mnie miłujesz Ja wiem co teraz czujesz,<br/>Odtąd paś owieczki me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Już nadszedł czas, że Jezus musi odejść,<br/>Obietnicę Boga daje im.<br/>Dla uczniów darem to miłości Bożej,<br/>By sprostać mogli poleceniom tym.<br/>Wędrujcie wzdłuż i wszerz i głoście dobrą wieść.<br/>Czyńcie z ludzi uczniów moich dziś,<br/>Niech każdy ochrzci się,<br/>W Trójjedyne Imię me,<br/>Jam jest z wami choć odchodzę stąd.</lines>
+    </verse>
+  </lyrics>
+</song>

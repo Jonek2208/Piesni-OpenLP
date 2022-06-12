@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T08:37:07">
+  <properties>
+    <titles>
+      <title>Pan wywyższony</title>
+    </titles>
+    <verseOrder>v1 c1 v1 c2</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pan wywyższony, nasz Król wywyższony wśród chwał<br/>Uwielbiajmy Go.<br/>Pan wywyższony, nasz Król wywyższony<br/>Oddajmy Jemu cześć.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Królem jest Pan, Jego prawda na wieki trwa<br/>Niebo i ziemio radujcie się jego imieniem.<br/>Pan wywyższony, nasz Król wywyższony wśród chwał</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Królem jest Pan, Jego prawda na wieki trwa<br/>Niebo i ziemio radujcie się jego imieniem.<br/>/ Pan wywyższony, nasz Król wywyższony wśród chwał /×3</lines>
+    </verse>
+  </lyrics>
+</song>

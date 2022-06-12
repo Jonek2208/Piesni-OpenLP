@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:00:02">
+  <properties>
+    <titles>
+      <title>Śmiałym bądź</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><chord name="E"/>/ <chord name="A"/>Śm<chord name="h"/>iałym bądź, mężnym bądź<br/><chord name="E"/>Bo<chord name="A"/> T<chord name="h"/>wój Bóg i Pan jest z Tobą /x2<br/><br/><chord name="A"/>Wi<chord name="h"/>ęc<chord name="E"/> nie boję się (nie, nie, nie)<br/><chord name="A"/>Ni<chord name="h"/>e <chord name="E"/>zawiodę się<br/><br/><chord name="A"/>/ <chord name="h"/>Za<chord name="E"/>ws[(A]ze <chord name="E)"/>wierzę i w zwycięstwie chodzić chcę /x2<br/><chord name="A"/>Bo<chord name="h"/> m<chord name="E"/>ój[(A] Bó<chord name="E)"/>g i Pan jest ze mną.</lines>
+    </verse>
+  </lyrics>
+</song>

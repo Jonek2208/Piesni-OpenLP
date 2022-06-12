@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-20T09:49:12">
+  <properties>
+    <titles>
+      <title>Chwalmy Go</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v2</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Chwalmy Go, Pan w majestacie swym<br/>Jezus godzien wszelkiej chwały, mocy i czci<br/>Chwalmy Go, złóżmy korony swe<br/>Pan nasz na tron zasiadł wśród chwał, wszyscy Go czczą.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bowiem Bóg wywyższył sam imię Jezusa<br/>Wszelki twór niech wyzna więc, że Jezus to Pan<br/>Chwalmy Go, Pan w majestacie swym<br/>Jezus co zmarł, teraz wśród chwał to królów Król</lines>
+    </verse>
+  </lyrics>
+</song>

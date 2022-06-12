@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:00:00">
+  <properties>
+    <titles>
+      <title>Pan jest Pasterzem moim</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><chord name="d"/>Pa<chord name="g"/>n <chord name="Be-C"/>jest <chord name="d"/>Pasterzem moim<br/><chord name="d"/>Ni<chord name="g"/>cz<chord name="Be-C"/>ego m<chord name="d"/>i nie braknie<br/><br/><chord name="d"/>Na<chord name="g"/> z<chord name="Be-C"/>ielon<chord name="d"/>ych niwach pasie mnie<br/><chord name="d"/>Na<chord name="g"/>d <chord name="Be-C"/>spoko<chord name="d"/>jne wody mnie prowadzi<br/><br/><chord name="d"/>I <chord name="g"/>du<chord name="Be-C"/>szę m<chord name="d"/>ą pokrzepia,<br/><chord name="d"/>I <chord name="g"/>wi<chord name="Be-C"/>edzie<chord name="d"/> mnie ścieżkami<br/><chord name="d"/>Sp<chord name="g"/>ra<chord name="Be-C"/>wiedl<chord name="d"/>iwości Swojej.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><chord name="a"/>Ch<chord name="C"/>oć<chord name="G"/>by<chord name="d"/>m nawet szedł ciemną doliną,<br/><chord name="a"/>Zł<chord name="C"/>a <chord name="G"/>si<chord name="d"/>ę nie ulęknę, boś Ty ze mną.<br/><br/><chord name="a"/>La<chord name="C"/>sk<chord name="G"/>a <chord name="d"/>Tw<chord name="a"/>oj<chord name="C"/>a <chord name="G"/>i <chord name="g"/>kij Twój mnie pocieszają.<br/><br/><chord name="d"/>La<chord name="g"/>j.<chord name="Be-C"/>..<chord name="d"/></lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-05T23:59:56">
+  <properties>
+    <titles>
+      <title>Godzien chwały jest Baranek</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>GODZIEN CHWAŁY JEST BARANEK ŚWIĘTY, ŚWIĘTY JEST ON<br/>ŚPIEWAJ TEMU, KTÓRY W NIEBIE, OBJĄŁ ŁASKI TRON</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ŚWIĘTY ŚWIĘTY ŚWIĘTY<br/>JEST PAN BÓG WSZECHMOGĄCY<br/>ON BYŁ I JEST I PRZYJDZIE ZNÓW<br/>Z CAŁYM STWORZENIEM ŚPIEWAM, CHWAŁĘ ODDAJĘ CI<br/>TY WSZYSTKIM JESTEŚ MI I BĘDĘ CIĘ WIELBIĆ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ŻYWĄ TECZĄ OTOCZONY<br/>BLASKIEM BŁYSKAWIC GŁOSEM GROMÓW<br/>MOC I BŁOGOSŁAWIEŃSTWO, CZEŚĆ I CHWAŁA CI<br/>BO KRÓLEM JESTEŚ TYLKO TY</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ZACHWYCENI, ZADZIWIENI<br/>WYZNAJEMY IMIĘ TWE<br/>POTĘŻNE IMIĘ JEZUS, DECH ŻYCIA, WODA ŻYWA<br/>TAJEMNICA DANA MI</lines>
+    </verse>
+  </lyrics>
+</song>

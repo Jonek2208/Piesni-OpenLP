@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:01:47">
+  <properties>
+    <titles>
+      <title>Chwała Bogu, chwała w górze</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+    <songbooks>
+      <songbook name="Śpiewnik Pielgrzyma" entry="035"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Chwała Bogu, chwała w górze,<br/>Chwała niechaj ciągle brzmi;<br/>Niechaj wszystkie dzieci Boże<br/>Wznoszą pieśń ku Jego czci!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ojcze nasz i Stwórco wszego!<br/>Tron Twój wiecznie będzie stał.<br/>Z miłosierdzia niezmiernego<br/>Synaś Swego na świat dał.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wszystkim grzesznym wyzwolenie<br/>Teraz z nieba przyniósł Pan;<br/>Pojednanie, odpuszczenie<br/>Daje w mocy Swoich ran.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Skromny sługi kształt obleka<br/>I dziecięciem rodzi się,<br/>By ośmielić tym człowieka,<br/>Że Doń oczy podnieść śmie.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Wszyscy Doń grzesznicy śpieszcie,<br/>Co pragniecie życia wód!<br/>Darmo Jego dary bierzcie,<br/>A poznacie łaski cud.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Alleluja, alleluja!<br/>Bóg jest godzien wiecznych chwał.<br/>Alleluja, alleluja, alleluja, amen.</lines>
+    </verse>
+  </lyrics>
+</song>

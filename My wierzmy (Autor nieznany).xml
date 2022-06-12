@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-05T23:59:59">
+  <properties>
+    <titles>
+      <title>My wierzmy</title>
+    </titles>
+    <verseOrder>v1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>W czasie wielkiej desperacji<br/>Gdy zwątpienie wokół nas<br/>Jest jedynym fundamentem<br/>Wiarę swą mamy w Nim</lines>
+    </verse>
+    <verse name="v2">
+      <lines>W tym złamanym pokoleniu<br/>Choć ciemność trwa widzimy że<br/>Tylko w Nim jest wybawienie<br/>Wiarę swą mamy w Nim</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Miejmy wiarę niewzruszoną<br/>Większą niż to mówi pieśń<br/>W czasie pokus i słabości<br/>/ Wiarę swą mamy w Nim / x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Niech zgubieni swój odnajdą dom<br/>Miłość pełna w nim zapanuje znów<br/>Kościół wreszcie niech pokocha świat<br/>Wiarę swą mamy w Nim<br/>Bramy piekieł nie przemogą Go<br/>Boża wielka moc zniszczyła zło<br/>Wiemy że On sam nie zawiedzie nas<br/>Wiarę swą mamy w Nim</lines>
+    </verse>
+    <verse name="c1">
+      <lines>My wierzymy w Boga Ojca<br/>My wierzymy w Syna moc<br/>My wierzymy w Duchu Świętym<br/>I że życie mamy w Nim<br/>My wierzymy w śmierć na krzyżu<br/>My wierzymy że zwyciężył zło<br/>My wierzymy w zmartwychwstanie<br/>I że Pan powróci znów</lines>
+    </verse>
+  </lyrics>
+</song>

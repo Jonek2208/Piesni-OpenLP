@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-05T23:59:58">
+  <properties>
+    <titles>
+      <title>KIEDY RANNE WSTAJĄ ZORZE</title>
+    </titles>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>KIEDY RANNE WSTAJĄ ZORZE<br/>TOBIE ZIEMIA, TOBIE MORZE<br/>TOBIE ŚPIEWA ŻYWIOŁ WSZELKI<br/>BĄDŹ POCHWALON BOŻE WIELKI<br/>(:O, ALLELUJA, ALLELUJA:)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>CZŁOWIEK ZAŚ, KTÓRY BEZ MIARY<br/>OBSYPANY TWYMI DARY<br/>COŚ GO STWORZYŁ I OCALIŁ<br/>CZEMÓŻ BY CIĘ ON NIE CHWALIŁ<br/>(:O, ALLELUJA, ALLELUJA:)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>LEDWIE OCZY PRZETRZEĆ ZDOŁAM<br/>JUŻ DO MEGO PANA WOŁAM<br/>DO MOJEGO BOGA W NIEBA<br/>SZUKAM GO WOKOŁO SIEBIE<br/>(:O, ALLELUJA, ALLELUJA:)</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:01:59">
+  <properties>
+    <titles>
+      <title>Od kiedy Pan mi pewność dał</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+    <songbooks>
+      <songbook name="Śpiewnik Pielgrzyma" entry="311"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Od kiedy Pan mi pewność dał,<br/>Ze w Nim zbawienia mego dział,<br/>Nie lękam się już ziemskich trwóg,<br/>Prowadzi mię mój Pan i Bóg.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Od kiedy On mi źródłem łask,<br/>Oświeca mię niebieski blask,<br/>I życie me już nie jest mym,<br/>Jam już na wieki, Jezu, Twym.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Od kiedy wiem, co w Zbawcy mam.<br/>Nie pytam się o ziemski kłam.<br/>On żywy chleb, co z nieba zszedł,<br/>Nasyca mię wśród moich bied.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O, alleluja, stało się,<br/>Mój Jezus już odkupił mię!<br/>Czy sprzyja los, Czy ciężki cios,<br/>Gdzie Jezus, tam radości głos,</lines>
+    </verse>
+  </lyrics>
+</song>

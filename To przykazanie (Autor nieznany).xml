@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:01:28">
+  <properties>
+    <titles>
+      <title>To przykazanie</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+    <songbooks>
+      <songbook name="Śpiewnik Wędrowiec" entry="028"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>To przykazanie,<br/>Ja dziś daje wam:<br/><br/>/ Byście się miłowali,<br/>jak ja miłuje was /x2<br/><br/>/ A wtedy wszyscy<br/>poznają, żeście moi,<br/>Gdy miłość wzajemną<br/>mieć będziecie /x2</lines>
+    </verse>
+  </lyrics>
+</song>

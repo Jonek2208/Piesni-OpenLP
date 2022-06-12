@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-05T23:59:57">
+  <properties>
+    <titles>
+      <title>Jezu, Tyś Panem moim jest</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/ Jezu Tyś Panem moim jest<br/>wyznaję Cię i ogłaszam Królem mym /x2<br/><br/>/ Niech żyje Król, niech żyje Król!<br/>niech żyje Król, mój Pan i mój Bóg /x2</lines>
+    </verse>
+  </lyrics>
+</song>

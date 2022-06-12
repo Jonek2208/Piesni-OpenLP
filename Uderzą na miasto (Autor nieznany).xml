@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:00:03">
+  <properties>
+    <titles>
+      <title>Uderzą na miasto</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/ Uderzą na miasto, zdobędą ten mur,<br/>Tak liczne zastępy posłuszne Mu są. /x2<br/><br/>/ To Pan wydaje Swój głos,<br/>Przed wojskiem Swym. / x2<br/><br/>Drużyno Syjonu, Syjonu,<br/>Stań rzędem na Mej górze świętej!<br/>Drużyno Syjonu, Syjonu,<br/>Na górze Mej stań!</lines>
+    </verse>
+  </lyrics>
+</song>

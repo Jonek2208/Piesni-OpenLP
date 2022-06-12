@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:01:56">
+  <properties>
+    <titles>
+      <title>Na krzyż kieruj wzrok</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+    <songbooks>
+      <songbook name="Śpiewnik Pielgrzyma" entry="526"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Na krzyż kieruj wzrok,<br/>duszo, w cza się burz<br/>- Pójdź do Mnie!-Zbawca woła cię.<br/>Tam kończy się wszelki smutek, już.<br/>O, pójdź, życia dać Jemu nie bój się!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Na krzyż kieruj ty w każdej chwili wzrok;<br/>Ufaj Mu wiernie w dzień i w noc;<br/>On kocha cię, zwierz Mu każdy krok!<br/>O, pójdź, ujrzysz tam dziwnej łaski moc.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gdy zaś w pośród róż i niebieskich palm<br/>Pana ujrzymy twarzą w twarz,<br/>Nowy Mu wtedy zanucim psalm.<br/>O, pójdź z nami tam, gdzie syjońska straż.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refr.: Tylko spójrz w tej łaski cud,<br/>Co twych grzechów zmywa brud;<br/>Zniknie noc, zabłyśnie dzień<br/>Wiecznych chwał, radosnych pień.</lines>
+    </verse>
+  </lyrics>
+</song>

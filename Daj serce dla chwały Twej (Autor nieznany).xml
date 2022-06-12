@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:01:48">
+  <properties>
+    <titles>
+      <title>Daj serce dla chwały Twej</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+    <songbooks>
+      <songbook name="Śpiewnik Pielgrzyma" entry="257"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Daj serce dla chwały Twej,<br/>/ Co tchnie miłością tą, /x2<br/>Bym pewny był. tu łaski tej,<br/>Żem jest dzieciną Twą.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Daj serce wierne, prawe mi,<br/>/ Co wierzyć, ufać chce /x2<br/>Niech w nim dla bliźnich miłość lśni,<br/>Co w służbę kładzie się.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Więc na wskroś odnów serce me<br/>/ I mowę, czyn i zmysł, /x2<br/>Daj, Jezu, serce, jako Twe,<br/>By życia zdrój zeń trysł.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Daj serce mi, jak serce Twe,<br/>/ 0, daj dla Twoich chwał, /x2<br/>Co zawsze z Tobą jedno jest,<br/>- A dosyć będę miał.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>/ Daj serce mi, jak Twe, /x2<br/>Serce daj czyste, nowe,<br/>W wierze, miłości żywe,<br/>Daj serce mi, jak Twe!</lines>
+    </verse>
+  </lyrics>
+</song>

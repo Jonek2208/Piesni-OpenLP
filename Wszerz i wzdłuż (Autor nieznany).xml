@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:00:04">
+  <properties>
+    <titles>
+      <title>Wszerz i wzdłuż</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><chord name="G"/>Ws<chord name="C"/>ze<chord name="G"/>rz<chord name="C"/> i<chord name="D"/> wzdłuż<br/><chord name="G"/>Ws<chord name="C"/>ze<chord name="G"/>rz<chord name="C"/> i<chord name="D"/> wzdłuż<br/><chord name="G"/>źr<chord name="C"/>ód<chord name="G"/>ło<chord name="C"/> ż<chord name="D"/>ycia płynie wszerz i wzdłuż</lines>
+    </verse>
+  </lyrics>
+</song>

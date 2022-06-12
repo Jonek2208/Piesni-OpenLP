@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:01:25">
+  <properties>
+    <titles>
+      <title>Kiedy moc grzechu</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+    <songbooks>
+      <songbook name="Śpiewnik Wędrowiec" entry="250"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kiedy moc grzechu dręczy Cię<br/>/ Na rzeki dno je wrzuć /x3<br/>Kiedy moc grzechu dręczy Cię<br/>Na rzeki dno je wrzuć<br/>On przeprowadzi Cię</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kiedy masz pokus pełno w krąg<br/>/ To wtedy pomódl się /x3<br/>Kiedy masz pokus pełno w krąg<br/>To wtedy pomódl się<br/>A Bóg zwycięstwo da</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kiedy masz radość w sercu swoim<br/>/ To śpiewaj cały dzień /x3<br/>Kiedy masz radość w sercu swoim<br/>To śpiewaj cały dzień<br/>I w Panu raduj się</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kiedy masz miłość w sercu swoim<br/>/ To śpiewaj cały dzień /x3<br/>Kiedy masz miłość w sercu swoim<br/>To śpiewaj cały dzień<br/>I w Panu raduj się</lines>
+    </verse>
+    <verse name="c1">
+      <lines>/ On poprowadzi Ciebie sam<br/>Prosto, aż do niebios bram.<br/>Wieczną radość też On da /x2</lines>
+    </verse>
+  </lyrics>
+</song>

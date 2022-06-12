@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-05T23:59:58">
+  <properties>
+    <titles>
+      <title>Jezus jest mym Panem...</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/ Jezus jest mym Panem<br/>Mym Mistrzem i Zbawcą / x3<br/>Takim na wieki On, Alleluja!<br/>Takim na wieki On<br/><br/>Panie Jezu, chwała Ci<br/>Chwała za Twoją świętą krew<br/>Królów Król i Panów Pan!<br/>Bóg Abrahama, alleluja,<br/>Bóg Abrahama.</lines>
+    </verse>
+  </lyrics>
+</song>

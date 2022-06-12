@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-03-06T08:45:46">
+  <properties>
+    <titles>
+      <title>Do Ciebie Panie woła dusza moja</title>
+    </titles>
+    <verseOrder>v1 c1 v1 c2</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Do Ciebie Panie woła dusza moja<br/>Tęskni ciało me<br/>Gdy nie ma Cię, Moje serce ogarnia lęk<br/>Przyjdź dotknij mnie<br/>Rozraduj mnie</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jezu, pragnę blisko Ciebie być<br/>Jezu, w Twych ramionach się skryć<br/>Słodycz Twą poznawać co dnia<br/>Przy sercu Twym trwać</lines>
+    </verse>
+    <verse name="c2">
+      <lines>/Jezu, pragnę blisko Ciebie być<br/>Jezu, w Twych ramionach się skryć<br/>Słodycz Twą poznawać co dnia<br/>Przy sercu Twym trwać /x2</lines>
+    </verse>
+  </lyrics>
+</song>

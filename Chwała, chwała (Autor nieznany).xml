@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-05T23:59:56">
+  <properties>
+    <titles>
+      <title>Chwała, chwała</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Chwała, chwała Król jest godzien czci.<br/>Chwała, chwała Król jest godzien czci.<br/><br/>Kto jest tym Królem chwały<br/>Tym Królem Chrystus Pan<br/>Wywyższony ponad wszystko na ziemi jest<br/>Jego imię głośno brzmi.</lines>
+    </verse>
+  </lyrics>
+</song>

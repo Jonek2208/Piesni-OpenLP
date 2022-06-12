@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:01:27">
+  <properties>
+    <titles>
+      <title>Słowo Twoje jest</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+    <songbooks>
+      <songbook name="Śpiewnik Wędrowiec" entry="026"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Słowo Twoje jest pochodnią nogom mym,<br/>Słowo Twoje jest światłością ścieżce mej.<br/>Ono wiedzie mnie w świecie mrocznym złym.<br/>Słowo Twoje jest pokarmem duszy mej.<br/><br/>Jakże mogę ja oczyścić ścieżki me?<br/>Jeśli będę żyć, jak uczy słowo Twe,<br/>By nie grzeszyć znów przed obliczem Twym,<br/>Chcę wyroki Twe zachować w sercu mym.</lines>
+    </verse>
+  </lyrics>
+</song>

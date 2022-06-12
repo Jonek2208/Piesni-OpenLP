@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:01:46">
+  <properties>
+    <titles>
+      <title>Alleluja, chwalcie Pana</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+    <songbooks>
+      <songbook name="Śpiewnik Pielgrzyma" entry="001"/>
+    </songbooks>
+    <themes>
+      <theme>Pocieszenie;</theme>
+      <theme>Skrucha; Owoce: Pokój</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Alleluja chwalcie Pana,<br/>Nućcie Jemu chwałę, cześć!<br/>Chwalcie, wszyscy aniołowie,<br/>Głosząc Jego łaski wieść!<br/>Chwal Go, słońce i księżycu,<br/>Chwal Go, mnóstwo jasnych gwiazd,<br/>Chwalcie, góry, chwalcie, drzewa,<br/>Chwalcie, ptaki, z swoich gniazd!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Chwalcie wszystkie Go narody,<br/>Złóżcie przed nim chwałę swą!<br/>Chwalcie ziemscy Go królowie,<br/>Niech się przed Nim głowy gną!<br/>Chwalcie kornie, starcy, Pana,<br/>Z głębi serc i z głębi dusz,<br/>Chwalcie dzieci i młodzieńcy,<br/>Wszak to Pan wasz i wasz Stróż.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lecz niech chwali swego Ojca<br/>Przede wszystkim Boży lud,<br/>Wszak on poznał i doświadczył,<br/>Co to jest miłości cud.<br/>Bóg nam posłał Syna Swego,<br/>By przez krew zgniótł złego moc,<br/>Za to wiecznie chcemy sławić<br/>Jego łaskę w dzień i w noc.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Wysławiajcie imię Pańskie,<br/>Uwielbiajcie Jego moc!<br/>/ Niech są pełne Jego chwały, /x2<br/>Niech są pełne Jego chwały<br/>Niebo, ziemia w dzień i w noc!</lines>
+    </verse>
+  </lyrics>
+</song>

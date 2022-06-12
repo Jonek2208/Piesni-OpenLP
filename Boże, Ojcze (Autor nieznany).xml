@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:01:22">
+  <properties>
+    <titles>
+      <title>Boże, Ojcze</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+    <songbooks>
+      <songbook name="Śpiewnik Wędrowiec" entry="125"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/ Boże, Ojcze,<br/>Chcę uwielbiać Cię dziś! /x2<br/>Jam Twoim jest dziełem,<br/>Co złe we mnie przemień<br/>Boże, Ojcze chcę uwielbiać Cię dziś.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>/ Boży Synu,<br/>Chcę wywyższać Cię dziś /x2<br/>Za śmierć, za mnie Panie<br/>Za Twe zmartwychwstanie<br/>Boży Synu chcę wywyższać Cię dziś.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>/ Duchu Święty,<br/>Racz napełnić i mnie! /x2<br/>Bądź ze mną i kieruj,<br/>Doprowadź do celu,<br/>Duchu Święty, racz napełnić i mnie.</lines>
+    </verse>
+  </lyrics>
+</song>

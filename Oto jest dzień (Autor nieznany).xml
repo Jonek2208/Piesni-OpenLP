@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:00:00">
+  <properties>
+    <titles>
+      <title>Oto jest dzień</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/: Oto jest dzień :/<br/>/: Który dał nam Pan :/<br/>/: Weselmy się :/<br/>/: I radujmy się w nim :/<br/>Oto jest dzień, który dał nam Pan,<br/>Weselmy się i radujmy się w Nim.<br/>/: Oto jest dzień :/<br/>Który dał nam Pan.</lines>
+    </verse>
+  </lyrics>
+</song>

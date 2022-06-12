@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:02:01">
+  <properties>
+    <titles>
+      <title>Pośpieszcie o wierni</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+    <songbooks>
+      <songbook name="Śpiewnik Pielgrzyma" entry="042"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pośpieszcie o wierni<br/>Głośno triumfując<br/>By ujrzeć cudowne to Betlejem<br/>Ujrzeć dzieciątko dla nas narodzone!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O Królu światłosci<br/>Panie wojsc anielskich<br/>Spoczywasz we żłóbku ubogi, mdły!<br/>Boże prawdziwy, zrodzon od wieczności!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Śpiewajcie królowi chóry archanielskie!<br/>Śpiewajmy z zastępem zbawionych dusz:<br/>"Chwała w niebiosach Bogu i na ziemi"!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tak, Tobie, co dla nas<br/>Stałęś się człowiekiem,<br/>Jezusie, niech bedzie oddana cześć!<br/>Słowo wcielone Ojca od wieczności!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Oddajmy pokłon Jemu<br/>Oddajmy pokłon Jemu<br/>Oddajmy pokłon Jemu - Królowi</lines>
+    </verse>
+  </lyrics>
+</song>

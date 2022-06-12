@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:01:29">
+  <properties>
+    <titles>
+      <title>Wy jesteście na ziemi</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+    <songbooks>
+      <songbook name="Śpiewnik Wędrowiec" entry="059"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/ Wy jesteście na ziemi światłem mym /x2<br/>/ Aby ludzie widzieli dobre czyny w was<br/>I chwalili Ojca, który w niebie jest /x2<br/><br/>/ My jesteśmy na ziemi światłem Twym /x2<br/>/ Aby ludzie widzieli dobre czyny w nas<br/>I chwalili Ojca, który w niebie jest /x2</lines>
+    </verse>
+  </lyrics>
+</song>

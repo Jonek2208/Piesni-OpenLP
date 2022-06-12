@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:00:02">
+  <properties>
+    <titles>
+      <title>Święty Pan, cudowny Bóg</title>
+    </titles>
+    <verseOrder>v1 c1 v2</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Święty Pan,<br/>Cudowny Bóg,<br/>Święty Duch<br/>Wiejący wciąż wiatr,<br/>Wiejący z nieba</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Świętą krew wzywamy dziś,<br/>Ogniu przyjdź<br/>O wietrze dziś wiej<br/>Wiej dzisiaj z nieba</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Pragniemy odtąd już iść<br/>Gdzie Boża chwała lśni<br/>Obudzić cały kraj - to nasz cel<br/>Jak wielka armia Pana<br/>O tysiące walczymy serc</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:02:02">
+  <properties>
+    <titles>
+      <title>Próżne są wymówki twe</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+    <songbooks>
+      <songbook name="Śpiewnik Pielgrzyma" entry="171"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Próżne są wymówki twe,<br/>Duszo, zawikłana w grzech,<br/>Ze masz jeszcze czasu dość<br/>Wrócić do ojczystych strzech,<br/>2e pokuta dobra<br/>jest na stare lata,<br/>Teraz młodość każe<br/>użyć tobie świata!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dzisiaj żyjesz w pełni sił,<br/>Lecz, pamiętaj, jutro snadź<br/>Śmierci cię owionie dech,<br/>Liczbę Bogu musisz zdać!<br/>Życie swoje marną służbą<br/>grzechu skrócisz,<br/>Ale się do Boga<br/>nigdy nie nawrócisz.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dziś cię dobry Pasterz sam<br/>Chce z szerokich odwieść dróg,<br/>Woła tęsknie: Wróć się, wróć.<br/>Bo się wikłasz w ciernie, głóg!<br/>Pan z litością wielką<br/>dzisiaj niedaleki:<br/>Gdy przestanie wołać,<br/>zginiesz już na wieki!</lines>
+    </verse>
+  </lyrics>
+</song>

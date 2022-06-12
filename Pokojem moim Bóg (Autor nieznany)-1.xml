@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:01:27">
+  <properties>
+    <titles>
+      <title>Pokojem moim Bóg</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+    <songbooks>
+      <songbook name="Śpiewnik Wędrowiec" entry="047"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/ Pokojem moim Bóg, On skruszył wszelki mur,<br/>Pokojem Bóg, pokojem mym /x2<br/><br/>/ Złóż na niego ciężar swój,<br/>On ci pomoc swą da,<br/>Pokojem Bóg, pokojem mym /x2</lines>
+    </verse>
+  </lyrics>
+</song>

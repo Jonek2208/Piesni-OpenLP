@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-13T08:32:22">
+  <properties>
+    <titles>
+      <title>Przed Tronem Twym stoimy</title>
+    </titles>
+    <verseOrder>v1 c1 v1 c1</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Przed Tronem Twym stoimy,<br/>Wpatrzeni w Twej Miłości blask.<br/>Do Ciebie, Panie podobni<br/>Stajemy się widząc Twą twarz.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>/ Chwała Twa wypełnia nas,<br/>Obecności Twojej blask,<br/>Gdy wielbimy Ciebie,<br/>Wiem, jesteś tu. /×2</lines>
+    </verse>
+  </lyrics>
+</song>

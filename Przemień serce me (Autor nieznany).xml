@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:00:01">
+  <properties>
+    <titles>
+      <title>Przemień serce me</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Przemień serce me uczyń szczerym je<br/>Przemień serce me pragnę być jak Ty<br/>Tyś jest garncarzem, jam gliną jest<br/>Skrusz mnie, ukształtuj, o to modlę się</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:00:00">
+  <properties>
+    <titles>
+      <title>Niepojęty</title>
+    </titles>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">-<chord name="E"/></lines>
+      <lines><chord name="C#m"/> Z GŁĘBOKOŚCI MÓRZ AŻ PO<chord name="H"/> SZCZYTY<chord name="E"/> GÓR<br/><chord name="F#m"/> STWORZENIE<chord name="E"/> OBJAWIA MAJESTAT<chord name="D"/> TWÓJ.<br/><chord name="C#m"/> OD KOLORÓW JESIENI PO<chord name="H"/> WIOSENNY<chord name="E"/> DESZCZ<br/><chord name="F#m"/> WSZYSTKO ŚPIEWA CI<chord name="E"/> PIEŚŃ<br/>PEŁNĄ CUDNYCH<chord name="D"/> SŁÓW,<br/><chord name="A"/> OGŁ<chord name="H"/>ASZAJĄC:</lines>
+    </verse>
+    <verse name="v2">
+      <lines><chord name="E"/> NIEPOJĘTY,<chord name="H"/> NIEZMIERZONY<br/><chord name="A"/>GWIAZDY STWORZYŁEŚ NA NIEBIE<br/>I KAŻDĄ Z NICH<chord name="C#m"/> ZNASZ,<br/><chord name="H"/> WSPANIAŁYM BOGIEM<chord name="A"/> TYŚ JEST!<br/><chord name="H"/> WSZECHMOGĄCY, NIE<chord name="A"/>SKOŃCZONY,<br/><chord name="H"/> W ZACHWYCIE KLĘKA<chord name="A"/>MY PRZED TOBĄ,<br/><chord name="H"/> BY WYZNAĆ TO, ŻE<chord name="A"/><br/><chord name="H"/> WSPANIAŁYM BOGIEM<chord name="A"/> TYŚ JEST!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><chord name="H"/> KTO UWALNIA BŁYSK<chord name="A"/>AWIC MOC W CZASIE BURZ<br/><chord name="H"/> KTO MALUJE KOLORY<chord name="A"/> POLARNYCH ZÓRZ<br/><chord name="H"/> SŁOŃCE STWORZYŁ N<chord name="A"/>A NIEBIE<br/><chord name="H"/> I DAŁ MU SWĄ MOC<chord name="A"/><br/><chord name="H"/> ORZEŹWIENIE PRZYN<chord name="A"/>OSI W GWIEŻDZISTĄ NOC -TYLKO TY!</lines>
+    </verse>
+    <verse name="v4">
+      <lines><chord name="H"/> NIEPOJĘTY, NIEZMI<chord name="A"/>ERZONY<br/><chord name="H"/> GWIAZDY STWORZYŁE<chord name="A"/>Ś NA NIEBIE<br/><chord name="H"/> I KAŻDĄ Z NICH ZN<chord name="A"/>ASZ,<br/><chord name="H"/> WSPANIAŁYM BOGIEM<chord name="A"/> TYŚ JEST!<br/><chord name="H"/> ZAWSZE DOBRY, NIE<chord name="A"/>SKOŃCZONY,<br/><chord name="H"/> TY ZNASZ MOJE SER<chord name="A"/>CE<br/><chord name="H"/> I MIMO TO WCIĄŻ K<chord name="A"/>OCHASZ MNIE,<br/><chord name="H"/> WSPANIAŁYM BOGIEM<chord name="A"/> TYŚ JEST!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:00:04">
+  <properties>
+    <titles>
+      <title>Zabierz Panie</title>
+    </titles>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ZABIERZ PANIE MNIE DO MIEJSCA<br/>TAM GDZIE JEST TWÓJ TRON<br/>ZABIERZ MNIE OD TŁUMU LUDZI<br/>PRZED OBLICZE TWE<br/>CHCĘ BYĆ ZAWSZE BLISKO CIEBIE<br/>PATRZEĆ W TWOJĄ TWARZ<br/>ŚWIAT ZOSTAWIĆ GDZIEŚ DALEKO<br/>W TWYCH OBJĘCIACH TRWAĆ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>PRAGNĘ PANIE WIELBIĆ CIEBIE<br/>PRZJMIJ MOJĄ PIEŚŃ<br/>PROSTE SŁOWA TOBIE NIOSĘ<br/>PANIE KOCHAM CIĘ<br/>CHCĘ BYŚ ZABRAŁ MNIE DO MIEJSCA<br/>TAM GDZIE JESTEŚ TY<br/>W OBECNOŚCI TWEJ CHCĘ PRZEBYWAĆ<br/>BLISKO CIEBIE BYĆ</lines>
+    </verse>
+    <verse name="c1">
+      <lines>ZABIERZ MNIE TAM GDZIE MIEJSCE NAJŚWIĘTSZE<br/>ZABIERZ MNIE PRZEZ BARANKA KREW<br/>ZABIERZ MNIE TAM GDZIE MIEJSCE NAJŚWIĘTSZE<br/>/OTOM JA OCZYŚĆ MNIE ZABIERZ MNIE/ 2x</lines>
+    </verse>
+  </lyrics>
+</song>

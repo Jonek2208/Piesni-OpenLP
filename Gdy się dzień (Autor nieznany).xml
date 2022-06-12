@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:01:24">
+  <properties>
+    <titles>
+      <title>Gdy się dzień</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+    <songbooks>
+      <songbook name="Śpiewnik Wędrowiec" entry="084"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gdy się dzień kończy już, ręce kornie złóż<br/>I szczerze pomódl się.<br/>Wspomnij też proszę cię, w swej modlitwie mnie<br/>I za mnie pomódl się.<br/>Słabym ja, pełno pokus wkrąg<br/>Jakiś ciężar barki me gnie.<br/>Kiedy więc, będziesz modlił się,<br/>W swej modlitwie chciej wspomnieć i mnie.</lines>
+    </verse>
+  </lyrics>
+</song>

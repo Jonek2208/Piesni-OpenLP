@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-03-20T07:50:18">
+  <properties>
+    <titles>
+      <title>Tyle wojen</title>
+    </titles>
+    <verseOrder>c1 v1 v2 c1 v1 v2 c1</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+    <songbooks>
+      <songbook name="Śpiewnik Wędrowiec" entry="096"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dwoje razem w łożu śpi,<br/>Lecz tylko jedno weźmie z ziemi Pan,<br/>Ja chcę byś był gotowy.<br/>Z dwóch idących drogą swą,<br/>Jeden tylko przejdzie niebios próg,<br/>Ja chcę byś był gotowy.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tam nie możesz zmienić się,<br/>Czemuś dotąd ślepym był?<br/>Tak mówi Pan, posłuchać chciej,<br/>Jezus idzie i zostaniesz sam.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Tyle wojen wokół nas,<br/>I każdy czegoś bardzo boi się,<br/>Ja chcę byś był gotowy.<br/>Śmierć króluje wokół nas,<br/>Głód też zbiera wielkie żniwo swe,<br/>Ja chcę byś był gotowy,<br/>Tam nie możesz zmienić się,<br/>Jezus idzie i zostaniesz sam.</lines>
+    </verse>
+  </lyrics>
+</song>

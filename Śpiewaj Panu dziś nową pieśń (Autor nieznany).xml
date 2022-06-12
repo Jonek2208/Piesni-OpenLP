@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:00:02">
+  <properties>
+    <titles>
+      <title>Śpiewaj Panu dziś nową pieśń</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Śpiewaj Panu dziś nową pieśń<br/>Chwała niech wypełni to miejsce<br/>On Królem królów jest,<br/>On jest panów Pan!<br/>Więc hołd Mu oddajmy.<br/><br/>Alleluja! Wielbimy Cię, alleluja!<br/>Panu daj cześć!</lines>
+    </verse>
+  </lyrics>
+</song>

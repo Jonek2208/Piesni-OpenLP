@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:00:03">
+  <properties>
+    <titles>
+      <title>Twa obecność jest szczęściem mym</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Twa obecność jest szczęściem mym<br/>Ona wnosi w życie me Twe światło<br/>Życie Twe i objawia moc, potęgę Twą<br/>Przed majestat twój chcę nieść<br/>W ofierze moją pieśń<br/>Miłości pieśń, o Królu mój</lines>
+    </verse>
+  </lyrics>
+</song>

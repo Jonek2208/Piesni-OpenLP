@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:00:01">
+  <properties>
+    <titles>
+      <title>Panie, ulecz nasz kraj</title>
+    </titles>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Czułeś ból i krzywdę znasz<br/>wzgardzenia i zdrady<br/>gdy nasz kraj rozpadał się<br/>Ciemność grzechu przez wiele lat<br/>mnóstwo przelanej krwi<br/>niezagojonych ran<br/>Panie, ulecz nasz kraj<br/>Ojcze, zbuduj nasz dom</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Poprzez wieki szukałeś nas<br/>przez pokolenia słychać było wołanie Twe<br/>Naród ginie, nie znając Cię<br/>Twój Kościół woła<br/>Ojcze, prosimy, zajmij tron<br/>Panie, ulecz nasz kraj<br/>Ojcze, zbuduj nasz dom</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Niech cały Kościół uniży się<br/>kolana braci zegną się<br/>by ramię w ramię móc wstać<br/>Niech naród polski pozna cię<br/>a ziemia wolną stanie się<br/>by wydać owoc dla Twej chwały<br/>Panie, ulecz nasz kraj<br/>Ojcze, zbuduj nasz dom</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Niech cały Kościół uniży się<br/>kolana dzieci zegną się<br/>by ramię w ramię móc wstać<br/>Niech naród polski pozna cię<br/>a ziemia wolną stanie się<br/>by wydać owoc dla Twej chwały<br/>Panie, ulecz nasz kraj<br/>Ojcze, zbuduj nasz dom</lines>
+    </verse>
+  </lyrics>
+</song>

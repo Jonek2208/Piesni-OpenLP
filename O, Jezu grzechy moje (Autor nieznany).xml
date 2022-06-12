@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:01:59">
+  <properties>
+    <titles>
+      <title>O, Jezu grzechy moje</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+    <songbooks>
+      <songbook name="Śpiewnik Pielgrzyma" entry="243"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O, Jezu grzechy moje<br/>Złożyć na Ciebie śmiem.<br/>Ty płacz i ciężkie znoje<br/>Ściszysz, to dobrze wiem;<br/>Ty na mych grzechów rany<br/>Zbawczy posiadasz lek;<br/>Dziś w Twojej krwi przelanej<br/>Jam bielszy niźli śnieg.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dość długo duszę moją<br/>Czarny ogarniał mrok,<br/>Dość długom bez pokoju<br/>Był pełen bied i trwóg.<br/>Dziś jasność z krzyża święta<br/>Duszy przyświeca mej;<br/>Nie lękam się, bo zdjęta<br/>Na zawsze klątwa z niej.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O Jezu, słońce moje,<br/>Cóż Tobie za to dam,<br/>Żeś te okrutne boje<br/>Za mnie przecierpiał Sam?<br/>Nie żądasz srebra, złota,<br/>Ty tylko serca chcesz.<br/>Tyś cel mój, ma tęsknota,<br/>Bierz mię, Miłości, bierz!</lines>
+    </verse>
+  </lyrics>
+</song>

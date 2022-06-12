@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-04-02T18:46:45">
+  <properties>
+    <titles>
+      <title>Słowo Twe</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 v4</verseOrder>
+    <authors>
+      <author>Amy Grant</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>/ Słowo Twe światłem jest dla moich stóp<br/>I pochodnią ścieżek mych /x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Kiedy boję się<br/>Wiem, że zbaczam z drogi Twej<br/>Tyś wiernym jest<br/>Podtrzymujesz mnie<br/>Cóż mi strach, gdy wiem<br/>Że Ty jesteś przy mnie, więc<br/>Tak proszę bądź po życia kres</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Przyjmij proszę więc<br/>Wdzięczne serce, które chce<br/>W miłości Twej tak wiecznie trwać<br/>Ty prowadzisz mnie<br/>Pokazujesz drogi Swe<br/>Więc śladem Twym<br/>Podążać chcę</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nie ulęknę się<br/>Nawet gdy zapadnie zmierzch<br/>Bo wiem, że Ty<br/>Wciąż przy mnie trwasz</lines>
+    </verse>
+    <verse name="v4">
+      <lines>/ Słowo Twe światłem jest dla moich stóp<br/>I pochodnią ścieżek mych /x2<br/>I pochodnią ścieżek mych<br/>Jesteś światłem ścieżek mych</lines>
+    </verse>
+  </lyrics>
+</song>

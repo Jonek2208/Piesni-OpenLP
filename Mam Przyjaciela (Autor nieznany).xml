@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-05-22T07:53:43">
+  <properties>
+    <titles>
+      <title>Mam Przyjaciela</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c2</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+    <songbooks>
+      <songbook name="Śpiewnik Pielgrzyma" entry="149"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mam Przyjaciela, pełen On miłości,<br/>On spłacił cenę mej wolności krwią,<br/>Gdym błądził w grzechu, zaprzedany złości,<br/>On znalazł mnie, przyciągnął na Swą pierś.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Me serce miłość Jego ozłociła,<br/>A Jego krzyż balsamem stał się mym,<br/>Pokój i radość mnie opromieniła,<br/>Jasnością dusza wypełniła się.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I tobie On otwiera dziś ramiona,<br/>Więc odłóż grzech i miłość świeckich złud,<br/>I tobie będzie wina odpuszczona,<br/>A wtedy poznasz ty Golgoty cud.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chcesz pytać się o drogie imię Jego,<br/>Gdzie mieszka On, gdzie szukać Jego masz,<br/>On zwie się Jezus, u stóp krzyża Swego<br/>Dziś czeka ciebie, czy Mu serce dasz.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>/ Chcesz pytać się o drogie imię Jego,<br/>Gdzie mieszka On, gdzie szukać Jego masz,<br/>On zwie się Jezus, u stóp krzyża Swego<br/>Dziś czeka ciebie, czy Mu serce dasz. /×2</lines>
+    </verse>
+  </lyrics>
+</song>

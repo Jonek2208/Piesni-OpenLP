@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:01:27">
+  <properties>
+    <titles>
+      <title>Podążam tam</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+    <songbooks>
+      <songbook name="Śpiewnik Wędrowiec" entry="044"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/ Podążam tam, gdzie wolność trwa /x3<br/>Ja idę, tam, gdzie wieczna wolność trwa.<br/><br/>/ O bracie chodź ze mną w ten cudny kraj /x3<br/>Ja idę, tam, gdzie wieczna wolność trwa.<br/><br/>/ O siostro chodź ze mną w ten cudny kraj /x3<br/>Ja idę tam, gdzie wieczna wolność trwa.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:01:26">
+  <properties>
+    <titles>
+      <title>Pan Bóg twój idzie razem</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+    <songbooks>
+      <songbook name="Śpiewnik Wędrowiec" entry="219"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pan Bóg twój idzie razem z tobą,<br/>On przy tobie jest!<br/>Pan Bóg twój idzie razem z tobą,<br/>Nigdy nie zawiedzie cię!<br/>Bojaźń, lęk, niepokój, strach<br/>Odrzuć, nie bój się!<br/>On jest przy tobie wszędzie,<br/>Nie bój się!</lines>
+    </verse>
+  </lyrics>
+</song>

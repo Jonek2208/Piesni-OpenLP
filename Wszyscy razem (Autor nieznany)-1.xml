@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:00:04">
+  <properties>
+    <titles>
+      <title>Wszyscy razem</title>
+    </titles>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><chord name="D"/> / Wszyscy razem,<chord name="A"/> wszyscy razem<br/><chord name="G"/> W imię Pana<chord name="A"/> spotkajmy<chord name="D"/> się /x2<br/><br/><chord name="D"/> Lud Jezusa<chord name="A"/> idzie razem.<br/><chord name="G"/> Czy idziesz<chord name="D"/> też?<br/><chord name="D"/> Dzielmy miłość<chord name="A"/> między siebie!<br/><chord name="G"/> Czy czynisz<chord name="D"/> to?<br/><chord name="D"/> Niech różnice<chord name="A"/> nas nie dzielą.<br/><chord name="G"/> Czy starasz<chord name="D"/> się?<br/><chord name="D"/> Niech Duch Jego<chord name="A"/> nas napełnia.<br/><chord name="G"/> Czy masz już <chord name="D"/>Go?</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:01:29">
+  <properties>
+    <titles>
+      <title>Życie ziemskie</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+    <songbooks>
+      <songbook name="Śpiewnik Wędrowiec" entry="019"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Życie ziemskie pełne jest trosk<br/>Serce płacze i drży.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Złóż na Pana troski i ból<br/>Wszystek ciężar i łzy</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jezus dobrze troski twe zna,<br/>Przyjdź do Niego pod krzyż.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Tam na Golgocie pozbędziesz się,<br/>Wszystkich ciężarów swych.<br/>Tam na Golgocie pozbędziesz się,<br/>Grzechów swych, brzemion swych.<br/>Tam na Golgocie pozbędziesz się<br/>Wszystkich ciężarów swych.</lines>
+    </verse>
+  </lyrics>
+</song>

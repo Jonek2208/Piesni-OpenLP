@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:00:03">
+  <properties>
+    <titles>
+      <title>Ty jesteś skałą zbawienia mego</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><chord name="h"/> Ty jesteś<chord name="fis"/> skałą <chord name="G"/>zbawienia<chord name="AB"/> mego<br/><chord name="h"/> W Tobi<chord name="fis"/>e ma siła<chord name="h"/> i moc.<br/><chord name="h"/> Tyś mą n<chord name="fis"/>adzieją i <chord name="G"/>mym natchni<chord name="AB"/>eniem<br/><chord name="h"/> Wz<chord name="fis"/>noszę do Ciebie<chord name="h"/> swój głos.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><chord name="h"/> Panie w<chord name="G"/>ierzę<chord name="A"/> Ci, t<chord name="fis"/>ak wierzę <chord name="h"/>Ci<br/><chord name="h"/> Bo Twa m<chord name="G"/>iłość <chord name="A"/>wierna <chord name="h"/>jest.<br/><chord name="h"/> Tyś pomo<chord name="G"/>cą mą w<chord name="A"/> potrz<chord name="fis"/>ebach mych<chord name="h"/><br/><chord name="e"/> Panie przy Tobie b<chord name="fis"/>yć chcę.</lines>
+    </verse>
+  </lyrics>
+</song>

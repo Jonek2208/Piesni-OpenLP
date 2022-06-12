@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:01:47">
+  <properties>
+    <titles>
+      <title>Chcesz-li wiedzieć, co ja wiem</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+    <songbooks>
+      <songbook name="Śpiewnik Pielgrzyma" entry="322"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Chcesz-li wiedzieć, co ja wiem,<br/>Poznać, co jest szczęściem mym,<br/>Czyją pragnę głosić cześć,<br/>Jaka pieśni mojej treść:<br/>- Jezus ukrzyżowany!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kto jest skałą wiary mej,<br/>Pokrzepieniem duszy mdłej?<br/>Kto Swą dla mnie przelał krew?<br/>Kto przejednał Boży gniew?<br/>- Jezus ukrzyżowany!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kto brud grzechu ze mnie zmył?<br/>Kto jest źródłem moich sił?<br/>Kto łagodzi ciężki znój,<br/>W serce wlewa balsam Swój?<br/>- Jezus ukrzyżowany!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Z kogo byt mój żywot wziął,<br/>Kto weń Ducha Swego tchnął,<br/>Sprawiedliwość Swą mi dał<br/>I sług Bożych szczęsny dział?<br/>- Jezus ukrzyżowany!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Kto mnie wyrwał z śmierci szpon,<br/>Opromienia światłem zgon?<br/>Kto do rajskich wiedzie wrót,<br/>Bym z anioły życie wiódł?<br/>- Jezus ukrzyżowany!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Wiesz więc teraz, co ja wiem,<br/>Co jest chlubą, szczęściem mym.<br/>W życiu, w śmierci oddaj się<br/>Temu, który zbawił cię<br/>- Jezus ukrzyżowany</lines>
+    </verse>
+  </lyrics>
+</song>

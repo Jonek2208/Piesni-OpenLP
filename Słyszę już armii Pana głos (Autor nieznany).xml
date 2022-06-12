@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:00:02">
+  <properties>
+    <titles>
+      <title>Słyszę już armii Pana głos</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/ Słyszę już armii Pana głos /x2<br/>Słyszę chwały głos, słyszę wojny głos<br/>To idzie armia Pana, to idzie armia Pana<br/>To idzie armia Pana uwielbiając Go</lines>
+    </verse>
+  </lyrics>
+</song>

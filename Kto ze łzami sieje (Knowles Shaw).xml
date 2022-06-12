@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:01:54">
+  <properties>
+    <titles>
+      <title>Kto ze łzami sieje</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Knowles Shaw</author>
+    </authors>
+    <songbooks>
+      <songbook name="Śpiewnik Pielgrzyma" entry="789"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kto ze łzami sieje<br/>dobre tu nasienie,<br/>Wielką mu nagrodę<br/>da w przyszłości Bóg.<br/>Daje mu też siły,<br/>by znosił cierpienie,<br/>W społeczności świętych,<br/>radość będzie żąć.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Więc rozsiewaj z rana<br/>ziarno błogiej wieści<br/>I nie odpoczywaj,<br/>choć dokucza żar!<br/>Pracuj do wieczora<br/>w smutku i w przykrości,<br/>Użyj każdą chwilę,<br/>którą Bóg ci dał.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Z wiarą i z miłością<br/>Boże siej nasienie:<br/>Podle drogi, w ciernie,<br/>i na szczytach skał.<br/>Ono sobie znajdzie<br/>urodzajną ziemię<br/>I korzyści wielkie<br/>będziesz z niego miał.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>/ Radość będzie żąć,<br/>radość będzie żąć,<br/>Tam w obozie świętych,<br/>radość będzie żąć. /x2</lines>
+    </verse>
+  </lyrics>
+</song>

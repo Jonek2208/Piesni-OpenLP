@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-05T23:59:56">
+  <properties>
+    <titles>
+      <title>Czekam na Ciebie</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Czekam na Ciebie<br/>Mieszkaj w sercu mym<br/>Moje pragnienie to Ty<br/>Ukryj mnie w sobie, skłoń kolana me<br/>Poznać Cię Jezu lepiej chcę<br/><br/>Weź życie me, przejmij je na zawsze<br/>Tchnij Duchem swym bym skrzydła me<br/>Jak orzeł wzbił</lines>
+    </verse>
+  </lyrics>
+</song>

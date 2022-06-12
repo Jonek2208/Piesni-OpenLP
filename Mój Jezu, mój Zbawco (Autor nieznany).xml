@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-03-13T09:01:15">
+  <properties>
+    <titles>
+      <title>Mój Jezu, mój Zbawco</title>
+    </titles>
+    <verseOrder>v1 c1 v1 c1 c1</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mój Jezu, mój Zbawco<br/>Panie któż jest jak Ty<br/>Wszystkie me dni chwalić Cię chcę<br/>Miłość Twoja wielka jest<br/><p style="page-break-after: always;"/><br/>Tyś moją ochroną<br/>W Tobie nadzieja i moc<br/>Wszystkie me dni, ze wszystkich mych sił<br/>Zawsze będę wielbić Cię</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Podnieś swój głos, śpiewaj dla Króla chwał<br/>Moc i majestat, i chwałę mu daj<br/>Góry i morza niech drżą, gdy usłyszą imię Twe<br/><p style="page-break-after: always;"/><br/>Krzyczę z radości, bo wielkie są dzieła Twe<br/>Kochać Cię, Twoim już zawsze być chcę<br/>Nic nie dorówna nadziei, którą w Tobie mam</lines>
+    </verse>
+  </lyrics>
+</song>

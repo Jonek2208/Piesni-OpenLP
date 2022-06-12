@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:01:52">
+  <properties>
+    <titles>
+      <title>Jam stęskniony w górne kraje</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+    <songbooks>
+      <songbook name="Śpiewnik Pielgrzyma" entry="571"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jam stęskniony w górne kraje,<br/>Gdzie miłości wiecznej tron,<br/>Gdzie Zbawiciel pokój daje,<br/>Wierność wynagradza On.<br/>O, tam bieżeć i nie zwlekać,<br/>Do ojczyzny mej iść chcę.<br/>Tu nie mogę dłużej czekać,<br/>Do ojczyzny śpieszę się.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Do ojczyzny ślę westchnienia,<br/>Ziemska radość niczym mi;<br/>Aż do końca życia tchnienia<br/>Wiernym pozostanę Ci.<br/>O, jak słodka radość błoga<br/>Tam w Ojcowskim domu brzmi,<br/>Gdzie się kończy wszelka trwoga,<br/>Łaski słońce wiecznie lśni.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nic nie znajdę piękniejszego<br/>Nad to, co mi niebo da;<br/>Tęsknię więc do życia tego Tam,<br/>gdzie światłość, pokój trwa.<br/>O, jak słodka to nadzieja<br/>O wieczności w sercu tli;<br/>Dla mnie niebo się otwiera,<br/>Szata i korona lśni.</lines>
+    </verse>
+  </lyrics>
+</song>

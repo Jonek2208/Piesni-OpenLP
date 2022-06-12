@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-05-07T18:09:08">
+  <properties>
+    <titles>
+      <title>Nie wiem, dlaczego miłość Swą</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+    <songbooks>
+      <songbook name="Śpiewnik Pielgrzyma" entry="240"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nie wiem, dlaczego miłość Swą<br/>Pan Bóg mi poznać dał,<br/>Jak wielkie Jego łaski są,<br/>Że życie za mnie dał!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nie wiem, dlaczego wiary moc.<br/>Udzielił duszy mej,<br/>Jak znikła z serca zwątpień noc.<br/>W promieniach łaski tej.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nie wiem, jak Jego Święty Duch.<br/>Mą myśl skierował wzwyż,<br/>Jak duszy mej otworzył słuch,<br/>mój zwrócił wzrok na krzyż.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nie wiem też, ile bólu, trwóg,<br/>Radości, błogich dni,<br/>Pielgrzymce mej wyznaczył Bóg,<br/>Lecz wiem, że bliskim mi.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Nie wiem też, kiedy przyjdzie czas,<br/>Czy w nocy, czy wśród dnia,<br/>Gdy Pan zawoła wszystkich nas,<br/>Korony złote da.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jednak wiem, komum ja uwierzył.<br/>I nic z Chrystusem mnie nie rozłączy,<br/>Jam swe życie mu powierzył.<br/>I wiem dokąd zajdę z Nim.</lines>
+    </verse>
+  </lyrics>
+</song>

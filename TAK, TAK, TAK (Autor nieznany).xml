@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:00:03">
+  <properties>
+    <titles>
+      <title>TAK, TAK, TAK</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>JEZUS JEST MYM PANEM<br/>JEZUS ZNALAZL MNIE<br/>ON MNIE WYRWAL Z TEGO SWIATA<br/>BY MOC SLUZYC MU</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ON MI PODAL REKE<br/>I WYBACZYL TO<br/>CO MNIE ZWIODLO NA BEZDROZA<br/>I W PRZEPASCI DNO</lines>
+    </verse>
+    <verse name="v3">
+      <lines>DZISIAJ JESTEM SOBA<br/>CZUJE WOLNOSC TWA<br/>SLUZAC PANU CALYM SERCEM<br/>WSZEDZIE WIDZE GO</lines>
+    </verse>
+    <verse name="v4">
+      <lines>WIDZE PIEKNO SWIATA<br/>CZUJE MILOSC TA<br/>KTÓRA JEZUS MNIE OTACZA<br/>WIDZAC SLABOSC MA</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ROZWAZ SOBIE TERAZ<br/>ROZWAZ W SERCU SWYM<br/>CZY DLA CIEBIE JEZUS CHRYSTUS<br/>PRZYJACIELEM JEST</lines>
+    </verse>
+    <verse name="v6">
+      <lines>A JEŻELI PRAGNIESZ<br/>UWOLNIONYM BYĆ<br/>DOLACZ GLOS SWÓJ DO MOJEGO<br/>SPIEWAJ ZE MNA TAK</lines>
+    </verse>
+    <verse name="c1">
+      <lines>o o o<br/>// TAK TAK TAK O PANIE MÓJ<br/>DZIEKI DZIEKI DZIEKI CI //2X</lines>
+    </verse>
+  </lyrics>
+</song>

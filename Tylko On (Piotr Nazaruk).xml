@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-05-08T07:06:21">
+  <properties>
+    <titles>
+      <title>Tylko On</title>
+      <title>Obrazem jest Boga niewidzialnego</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c2</verseOrder>
+    <authors>
+      <author>Piotr Nazaruk</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Obrazem jest Boga niewidzialnego<br/>Stworzony świat przez niego i dla niego<br/>Pierwszy we wszystkim, <br/>wszystko początek swój ma w nim<br/>Doskonały boży Syn</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Tylko on godzien jest<br/>Przyjąć hołd, wszelką cześć<br/>To mój Pan, to mój Brat<br/>To mój Jezus<br/>To mój król tylko On<br/>Godzien jest zająć tron<br/>Tylko On, tylko Jezus</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bóg zechciał by w nim zamieszkała pełnia<br/>Przez jego krzyż ze sobą świat pojednał<br/>Dał nam zbawienie i odpuszczenie wszelkich win<br/>Oto moc świętej krwi</lines>
+    </verse>
+    <verse name="c2">
+      <lines>/ Tylko on godzien jest<br/>Przyjąć hołd, wszelką cześć<br/>To mój Pan, to mój Brat<br/>To mój Jezus<br/>To mój król tylko On<br/>Godzien jest zająć tron<br/>Tylko On, tylko Jezus /×2</lines>
+    </verse>
+  </lyrics>
+</song>

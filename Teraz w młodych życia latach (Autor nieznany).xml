@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:01:28">
+  <properties>
+    <titles>
+      <title>Teraz w młodych życia latach</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+    <songbooks>
+      <songbook name="Śpiewnik Wędrowiec" entry="036"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Teraz w młodych życia latach,<br/>Gotowiśmy z Panem iść.<br/>W białych odrodzenia szatach,<br/>Jego jarzmo chętnie nieść.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Miłość, którą nosisz w łonie,<br/>W służbę bliźnim swoim staw!<br/>Wtedy miłosierdzia dłonie,<br/>Dokonają wielkich spraw.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ból łagodzić, duszę koić,<br/>Panu oddać siłę, czas.<br/>Jego się miłością zbroić,<br/>Niech to hasło żyje w nas.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O dla sprawy swego Pana,<br/>Nigdy swych nie żałuj sił.<br/>Działaj już z samego rana,<br/>Do ostatnich życia chwil.</lines>
+    </verse>
+  </lyrics>
+</song>

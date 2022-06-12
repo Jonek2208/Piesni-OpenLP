@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-05T23:59:56">
+  <properties>
+    <titles>
+      <title>Ci, co w Chrystusie chrzczeni są</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><chord name="C"/> Ci, co w Chrystusie chr<chord name="F"/>zczeni <chord name="C"/>są,<br/><chord name="e"/> W Jego <chord name="a"/>moc, przyo<chord name="F"/>dziani <chord name="C"/>są.<chord name="G"/><br/>All<chord name="e"/>euj<chord name="a"/>a, All<chord name="F"/>el<chord name="G"/>uja<chord name="C"/>.</lines>
+    </verse>
+  </lyrics>
+</song>

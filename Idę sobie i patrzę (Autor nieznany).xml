@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-05T23:59:57">
+  <properties>
+    <titles>
+      <title>Idę sobie i patrzę</title>
+    </titles>
+    <verseOrder>v1 c1</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Idę sobie i patrzę, co za dziwny świat,<br/>O mój Boże, chyba ze mną coś nie tak,<br/>To nie koncert, a jednak śpiewam głośno,<br/>Chociaż ludzie dziwnie patrzą,<br/>Pewnie dziwnie myślą o mnie.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Nie potrafię przestać tańczyć, co za dzień,<br/>O mój Boże, chcę powiedzieć: kocham Cię!<br/>Tak mi dobrze, kiedy wiem, że jesteś ze mną,<br/>Mogę Ci zaśpiewać<br/>Nową zwrotkę, tę poprzednią.</lines>
+    </verse>
+  </lyrics>
+</song>

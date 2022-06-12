@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:01:24">
+  <properties>
+    <titles>
+      <title>Gdzieś tam w cieniu</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+    <songbooks>
+      <songbook name="Śpiewnik Wędrowiec" entry="137"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gdzieś tam w cieniu, na uboczu stoi Jezus,<br/>Patrz, miłością wielką oczy Jego tchną.<br/>Gdzieś tam w cieniu, na uboczu Jego znajdziesz<br/>Po przebitych dłoniach łatwo poznasz Go!</lines>
+    </verse>
+  </lyrics>
+</song>

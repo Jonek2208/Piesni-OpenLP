@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-05T23:59:59">
+  <properties>
+    <titles>
+      <title>NIE MA PROBLEMU</title>
+    </titles>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nie ma problemu by On rozwiązać nie mógł<br/>Góry wysokiej by, Bóg przesunać nie mógł<br/>Burzy tak strasznej, by On uciszyć nie mógł<br/>Smutku głębokiego, by ukoić nie mógł</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Skoro poniósł On na barkach swych ciężary świata<br/>Ja wiem mój bracie, że On poradzi i twym<br/>Skoro poniósł On na barkach swych ciężary świata<br/>Wiem moja siostro, że on poradzi i twym</lines>
+    </verse>
+  </lyrics>
+</song>

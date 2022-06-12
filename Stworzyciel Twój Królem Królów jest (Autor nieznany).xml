@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:00:02">
+  <properties>
+    <titles>
+      <title>Stworzyciel Twój Królem Królów jest</title>
+    </titles>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/ Stworzyciel Twój Królem Królów jest<br/>Wszechmocny, wszechmocny /x2<br/>Potężny Pan, sprawiedliwy Bóg<br/>W miłości swej dla nas na ziemię zszedł<br/>Od wieków jest i na wieki trwa<br/>Królów Król, Pan Panów, amen</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-05-22T07:28:02">
+  <properties>
+    <titles>
+      <title>Otwórz oczy duszy mej Panie</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v4</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/Otwórz oczy duszy mej Panie<br/>otwórz oczy duszy mej<br/>Chcę widzieć Ciebie/ x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Widzieć wielkość, Twe wywyższenie<br/>Świeć światłem Swojej chwały<br/>Widzieć Twą moc i miłość<br/>Śpiewam święty, święty, święty</lines>
+    </verse>
+    <verse name="v3">
+      <lines>/Widzieć wielkość, Twe wywyższenie<br/>Świeć światłem Swojej chwały<br/>Widzieć Twą moc i miłość<br/>Śpiewam święty, święty, święty/ x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>/Święty, święty, święty,<br/>Święty, święty, święty,<br/>Święty, święty, święty,<br/>Chcę widzieć Ciebie./ x2</lines>
+    </verse>
+  </lyrics>
+</song>

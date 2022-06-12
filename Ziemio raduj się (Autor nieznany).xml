@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:00:04">
+  <properties>
+    <titles>
+      <title>Ziemio raduj się</title>
+    </titles>
+    <verseOrder>v1 c1</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ziemio raduj się,<br/>Pana chwal.<br/>Chwałę Jego w krąg,<br/>Głoś świecie cały.<br/>Mów jak wielkie są,<br/>Przedziwne dzieła twe.<br/>Wielka jest Twa moc,<br/>O Boże nasz.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Tyś najwyższy Pan wszechświata,<br/>Wróg u Twoich padnie stóp.<br/>Moc i wielkość Twą ogłasza<br/>Całej ziemi i nieba chór.</lines>
+    </verse>
+  </lyrics>
+</song>

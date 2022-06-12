@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-05T23:59:56">
+  <properties>
+    <titles>
+      <title>Cieszę się, alleluja</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><chord name="C"/>/ <chord name="G"/>Cieszę się, alleluja<br/><chord name="C"/>Ca<chord name="G"/>łym ciałem Bogu chwałę oddawać chcę /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines><chord name="C"/>/ <chord name="G"/>Nogą prawą, nogą lewą,<br/><chord name="C"/>Rę<chord name="G"/>ką prawą, ręką prawą,<br/><chord name="C"/>Rę<chord name="G"/>ką lewą też /x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines><chord name="C"/>Sk<chord name="G"/>łonem w przód, skłonem w tył,<br/><chord name="C"/>Sk<chord name="G"/>łonem w prawo, skłonem w lewo,<br/><chord name="C"/>I <chord name="G"/>siadaniem, i wstawaniem,<br/><chord name="C"/>I <chord name="G"/>skakaniem i bieganiem.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><chord name="G"/>Bó<chord name="C"/>g Twoim Panem jest,<br/><chord name="G"/>Je<chord name="C"/>mu chcę oddawać cześć!<br/><chord name="G"/>/ <chord name="C"/>Alleluja /x7</lines>
+    </verse>
+  </lyrics>
+</song>

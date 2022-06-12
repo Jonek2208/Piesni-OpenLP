@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:01:29">
+  <properties>
+    <titles>
+      <title>Z mgieł wicher</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+    <songbooks>
+      <songbook name="Śpiewnik Wędrowiec" entry="089"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Z mgieł wicher całun tka,<br/>Okrywa nim swą łódź.<br/>/ Pod moim wiosłem cicho fala łka,<br/>I szepcze wróć, ach wróć /x2<br/>I szepcze wróć, ach wróć.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ja w dla nieznaną tak,<br/>Wzbijam swój trwożny wzrok.<br/>/ Przez wód odmęty, chmurny, nocny mrok,<br/>Ja płynę w dal /x2<br/>Ja płynę w dal.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Chciałbym, ach chciałbym już,<br/>Zatrzymać łódki bieg.<br/>/ Uniknąć życia tego groźnych burz,<br/>I wyjść na pewien brzeg /x2<br/>I wyjść na pewien brzeg.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lecz, że mnie życia wciąż,<br/>Unosi wartki prąd.<br/>/ Ty Boże wywiedź mnie na pewny ląd,<br/>Ty bądź sternikiem mym /x2<br/>Ty bądź sternikiem mym.</lines>
+    </verse>
+  </lyrics>
+</song>

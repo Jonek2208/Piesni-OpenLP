@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-05T23:59:58">
+  <properties>
+    <titles>
+      <title>Dałeś nam siebie</title>
+    </titles>
+    <verseOrder>v1 c1</verseOrder>
+    <authors>
+      <author>Mate.O</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Wszyscy potrzebują miłości,<br/>Wszyscy potrzebują miłości!<br/>Gdzie jej szukać mam, gdzie jej szukać mam?<br/>Wszyscy potrzebują pokoju,<br/>wszyscy potrzebują radości!</lines>
+      <lines break="optional">Gdzie ich szukać mam, gdzie ich szukać mam?<br/>Szukałem, szukałem Ciebie.<br/>Szukałem, szukałem nie wiedząc, że Ty sam....<br/>Dałeś, dałeś nam siebie!<br/>Dałeś, dałeś nam siebie</lines>
+      <lines>I my dajemy Ci nasze serca dziś<br/>dajemy Ci Jezu!<br/>Dałeś, dałeś nam siebie.....</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chwała na wysokości,<br/>Chwała na wysokości,<br/>A pokój na ziemi...</lines>
+    </verse>
+  </lyrics>
+</song>

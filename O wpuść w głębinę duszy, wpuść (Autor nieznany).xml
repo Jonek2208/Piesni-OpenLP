@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:01:58">
+  <properties>
+    <titles>
+      <title>O wpuść w głębinę duszy, wpuść</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+    <songbooks>
+      <songbook name="Śpiewnik Pielgrzyma" entry="160"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O wpuść w głębinę duszy, wpuść<br/>Promienie jasne Bożych słów!<br/>Dlaczego chcesz światłości ujść?<br/>Dlaczego dziś nie masz być zdrów?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nie marnuj drogich łaski chwil!<br/>Strwonione raz, nie wrócą znów.<br/>O, wstań, przed Panem czoło schyl<br/>I uwierz Weń, a będziesz zdrów!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Niczego więcej nie ma świat,<br/>Jak tylko chwilę złudnych snów.<br/>Na łono Zbawcy pośpiesz rad,<br/>A będziesz dziś szczęśliwy, zdrów!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nikomu Pan nie broni przyjść,<br/>Przyjm więc i ty zew Jego słów!<br/>Kto szczerze chce do Niego iść,<br/>Ten będzie dziś zbawiony, zdrów.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ostatni raz Pan woła: Chodź!<br/>Ten wdzięczny głos w swe serce złów!<br/>O, zbudź się dzisiaj ze snu, zbudź,<br/>Pójdź jeszcze dziś - a będziesz zdrów!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Czemu nie dziś?<br/>Pan przyjmie cię,<br/>Na Swoją pierś przytulić chce.<br/>/ Więc idź już dziś ze skruchy łzą,<br/>On wyratuje duszę twą! /x2</lines>
+    </verse>
+  </lyrics>
+</song>

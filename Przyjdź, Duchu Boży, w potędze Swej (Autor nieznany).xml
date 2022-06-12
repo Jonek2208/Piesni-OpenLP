@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:02:02">
+  <properties>
+    <titles>
+      <title>Przyjdź, Duchu Boży, w potędze Swej</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+    <songbooks>
+      <songbook name="Śpiewnik Pielgrzyma" entry="696"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Przyjdź, Duchu Boży, w potędze Swej,<br/>/ Powiewem świętym miłość w nas wlej! /x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O, Boży ogniu, dotknij się nas<br/>/ 0budż i oczyść serca w ten czas! /x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wysłuchaj, Zbawco, blaga Twój lud,<br/>/ Serca przeistocz, uczyń ten cud! /x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Niechaj ustąpi zdrada i ból<br/>/ Zawładnij nami, Tyś wszak nasz Król! /x2</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Wypełnij życie światłością Twą<br/>/ I obdarz hojnie nas łaską Swą /x2</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Wszystkich nas ochrzcij płomieniem Swym<br/>/ By lud nasz jaśniał już światłem Twym /x2.</lines>
+    </verse>
+  </lyrics>
+</song>

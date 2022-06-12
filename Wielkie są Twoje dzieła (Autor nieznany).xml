@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:00:04">
+  <properties>
+    <titles>
+      <title>Wielkie są Twoje dzieła</title>
+    </titles>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wielkie są Twoje Dzieła,<br/>Panie wszechmogący<br/>Budzą one Twe zdumienie,<br/>Królu Narodów</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Każdy naród odda pokłon,<br/>Tobie święty Ojcze<br/>Objawione Twoje dzieła,<br/>przez sprawiedliwość</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Któżby się Ciebie nie bał,<br/>Panie wszechmogący<br/>Któżby nie oddał chwały,<br/>Twojemu imieniu</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:02:00">
+  <properties>
+    <titles>
+      <title>Pan przyjdzie wnet</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+    <songbooks>
+      <songbook name="Śpiewnik Pielgrzyma" entry="549"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pan przyjdzie wnet, alleluja,<br/>Co się Barankiem stał;<br/>Za świata grzech, alleluja,<br/>Na krzyż Swe życie dał.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pan przyjdzie wnet, alleluja,<br/>On po nas przyjdzie znów;<br/>On przyrzekł to, alleluja,<br/>Nie zmieni Swoich słów.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pan przyjdzie znów, alleluja,<br/>Królestwo weźmie On<br/>Na tysiąc lat, alleluja,<br/>Wieczysty Jego tron.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Pan przyjdzie znów, alleluja,<br/>Na tronie Swoim siadł,<br/>I odtąd ma, alleluja,<br/>W Swej mocy cały świat.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Przed Nim stanąć gotuj się,<br/>On Swą chwałę dać ci chce;<br/>Co przyrzekł nam, alleluja,<br/>Na pewno stanie się.</lines>
+    </verse>
+  </lyrics>
+</song>

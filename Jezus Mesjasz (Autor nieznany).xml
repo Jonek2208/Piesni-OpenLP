@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:01:25">
+  <properties>
+    <titles>
+      <title>Jezus Mesjasz</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+    <songbooks>
+      <songbook name="Śpiewnik Wędrowiec" entry="153"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jezus Mesjasz,<br/>Nad imiona jest imię to,<br/>Alfa, Omega<br/>Początek i koniec w Nim!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jezus Mesjasz,<br/>Potomkiem Dawida On<br/>Izrael, to Jego lud,<br/>Zbawiciel, Wszechświata Pan!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ten, kto ma uszy,<br/>Niech słyszy Jego głos<br/>Niech wsłuchuje się w słowa te,<br/>Ten kto spragniony<br/>Niech przyjdzie darmo pić<br/>Jezus źródłem żywym jest.</lines>
+    </verse>
+  </lyrics>
+</song>

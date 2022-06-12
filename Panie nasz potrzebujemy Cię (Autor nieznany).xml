@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:00:01">
+  <properties>
+    <titles>
+      <title>Panie nasz potrzebujemy Cię</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Panie nasz potrzebujemy Cię<br/>Bo nie ma w nas siły<br/><br/>Boże nasz szukamy Cię<br/>Zmieniaj nas zawsze<br/><br/>Panie nasz pragniemy być, jak Ty<br/>Ty dajesz nam wolność<br/><br/>My biegniemy, by poznać Cię<br/>My biegniemy, by zyskać życie swe</lines>
+    </verse>
+  </lyrics>
+</song>

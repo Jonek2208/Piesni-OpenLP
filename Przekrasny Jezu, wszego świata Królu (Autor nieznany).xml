@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:02:02">
+  <properties>
+    <titles>
+      <title>Przekrasny Jezu, wszego świata Królu</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+    <songbooks>
+      <songbook name="Śpiewnik Pielgrzyma" entry="021"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Przekrasny Jezu,<br/>Wszego świata Królu,<br/>Boski Synu Marii!<br/>Chcę Ciebie kochać,<br/>Chcę Ciebie wielbić,<br/>Korono duszy mojej Ty!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Piękne są pola,<br/>Ozdobniejsze lasy,<br/>Gdy je zdobi wiosny kwiat;<br/>Jezus piękniejszy,<br/>Jezus wdzięczniejszy,<br/>Od smutku serca zwalnia rad.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Piękny jest księżyc,<br/>Pięknie świeci słońce,<br/>Piękny złotych gwiazdek rój;<br/>Jezus jasnością,<br/>Jezus czystością<br/>Aniołów jasnych przyćmi strój.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Cała ta piękność,<br/>W niebie i na ziemi,<br/>W Tobie, Panie, ma swój zdrój.<br/>Nic tu milszego,<br/>Nic cenniejszego<br/>Nie znam nad Ciebie, Jezu mój!</lines>
+    </verse>
+  </lyrics>
+</song>

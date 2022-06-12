@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:01:23">
+  <properties>
+    <titles>
+      <title>Dlaczego cię przygniata ciężar</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+    <songbooks>
+      <songbook name="Śpiewnik Wędrowiec" entry="282"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dlaczego cię przygniata ciężar wielki?<br/>O jutro czemu tak kłopoczesz się?<br/>Bo jeśli Bóg się troszczy o wróbelki,<br/>Z pewnością nie zapomni cię.<br/>On widzi, On może, nieść ciężar pomoże.<br/>Bo jeśli Bóg się troszczy o wróbelki,<br/>Z pewnością nie zapomni cię!</lines>
+    </verse>
+  </lyrics>
+</song>

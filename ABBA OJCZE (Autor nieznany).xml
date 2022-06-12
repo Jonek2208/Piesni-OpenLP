@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-05T23:59:54">
+  <properties>
+    <titles>
+      <title>ABBA OJCZE</title>
+    </titles>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>NIE CHCĘ WIĘCEJ SAMYCH SŁÓW,<br/>CHCE NAPRAWDĘ CIEBIE ZNAĆ,<br/>NOWE SERCE WE MNIE STWÓRZ<br/>ABYM BARDZIEJ SZUKAŁ CIEBIE<br/>REF. / ABBA, OJCZE NALEŻĘ DO CIEBIE<br/>ABBA, OJCZE NALEŻĘ DO CIEBIE/</lines>
+    </verse>
+    <verse name="v2">
+      <lines>NIE POJĘTY WIELKI BÓG,<br/>STWORZYŁEŚ WSZECHŚWIAT CAŁY,<br/>JAKŻE JASNY JEST DOM TWÓJ,<br/>TWE KRÓLESTWO PRZEBACZENIA.<br/>CZŁOWIEK POWSTAŁ Z TWOICH RAK<br/>TAK BY KOCHAĆ CIEBIE.<br/>REF. / ABBA, OJCZE NALEŻĘ DO CIEBIE<br/>ABBA, OJCZE NALEŻĘ DO CIEBIE/</lines>
+    </verse>
+  </lyrics>
+</song>

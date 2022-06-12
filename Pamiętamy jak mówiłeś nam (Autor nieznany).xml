@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-06-12T08:00:47">
+  <properties>
+    <titles>
+      <title>Pamiętamy jak mówiłeś nam</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c2</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pamiętamy jak mówiłeś nam - Jam krzewem winnym jest,<br/>Każdy z was jest latoroślą, która owoc wydać ma.<br/>A mój Ojciec ogrodnikiem jest, On o was troszczy się.<br/>Pragnie by wzrastały, owoc przynosiły.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gdy nie trwamy w społeczności z Nim, To nie zrobimy nic,<br/>Lecz Ty obiecałeś mieszkać w nas, I w Tobie trwamy my.<br/>I chcesz by posłusznym Tobie być, W tym co mówiłeś nam:<br/>By nawzajem troszczyć się i kochać drugich.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>My rośniemy ciągle w mocy tej, ku niebu w górze tam, <br/>Pozostaniemy wszyscy w Nim, w miłości Jego wciąż. <br/>On nazwał przyjaciółmi nas, tak bardzo zniżył się. <br/>I będąc w społeczności z Nim wzrastamy cały czas.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>/ My rośniemy ciągle w mocy tej, ku niebu w górze tam, <br/>Pozostaniemy wszyscy w Nim, w miłości Jego wciąż. <br/>On nazwał przyjaciółmi nas, tak bardzo zniżył się. <br/>I będąc w społeczności z Nim wzrastamy cały czas. /x2</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:01:25">
+  <properties>
+    <titles>
+      <title>Miłuję Boga</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+    <songbooks>
+      <songbook name="Śpiewnik Wędrowiec" entry="052"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Miłuję Boga, Ojca mojego,<br/>Syna Bożego, Ducha Świętego,<br/>On uczynił mnie, zbawił, uświęcił mnie,<br/>Chwała, chwała, chwała, chwała.</lines>
+    </verse>
+  </lyrics>
+</song>

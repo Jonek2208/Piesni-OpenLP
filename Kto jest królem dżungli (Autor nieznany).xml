@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-05T23:59:58">
+  <properties>
+    <titles>
+      <title>Kto jest królem dżungli</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><chord name="C"/>Kto jest królem dżungli (uf, uf)<br/><chord name="C"/>Kt<chord name="G"/>o jest królem mórz (bul, bul, bul)<br/><chord name="C"/>Kt<chord name="G"/>o jest królem wszechświata<br/><chord name="C"/>Kto jest królem mym<br/><chord name="C"/>A jest nim<br/><chord name="C"/>J E Z U S<br/><chord name="C"/>Tak<br/><chord name="C"/>On<chord name="G"/> jest królem mym<br/><chord name="C"/>On<chord name="G"/> jest królem wszechświata<br/><chord name="G"/>Królem dżungli (uf, uf)<br/><chord name="G"/>Kr<chord name="C"/>ólem mórz (bul, bul, bul)</lines>
+    </verse>
+  </lyrics>
+</song>

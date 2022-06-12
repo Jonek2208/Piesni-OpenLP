@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:00:04">
+  <properties>
+    <titles>
+      <title>WIEM NIE ZAWIEDZIE MNIE PAN</title>
+    </titles>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wiem nie zawiedzie mnie Pan, Jemu ufać chcę<br/>Wiem nie zawiedzie mnie Pan, zawsze wesprze mnie<br/>Chociaż grozi burza i grom, wicher zrywa się<br/>Ja w Bogu ufność swą mam, nie zawiedzie mnie</lines>
+    </verse>
+    <verse name="v2">
+      <lines>On przyjaciel mój, Wierny aż po zgon<br/>Zawieść może świat, ale nigdy On<br/>Chociaż grozi burza i grom, wicher zrywa się<br/>Ja w Bogu ufność swą mam, nie zawiedzie mnie</lines>
+    </verse>
+  </lyrics>
+</song>

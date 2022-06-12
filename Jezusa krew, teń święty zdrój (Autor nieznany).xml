@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:01:53">
+  <properties>
+    <titles>
+      <title>Jezusa krew, teń święty zdrój</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+    <songbooks>
+      <songbook name="Śpiewnik Pielgrzyma" entry="269"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jezusa krew, teń święty zdrój<br/>Oczyszcza serce me;<br/>I daje pewność, iż Bóg moj<br/>Wziął mnie za dziecię Swe.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jedynie JEzusowa krew<br/>Zwycięża diabła moc,<br/>Do życia wiedzie piekłu wbrew,<br/>Niweczy ciemną noc.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jedynie krew z Jezusa ran<br/>Da wejść do raju bram;<br/>Tej krwi wspaniały zdrój jest dan<br/>Za twierdzę pewną nam.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O, ta krew, ta droga krew,<br/>Zgładza grzech i Boży gniew!<br/>Strzeże mnie i w wątpień noc<br/>Tej drogiej krwi cudowna moc!</lines>
+    </verse>
+  </lyrics>
+</song>

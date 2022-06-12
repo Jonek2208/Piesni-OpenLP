@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:01:50">
+  <properties>
+    <titles>
+      <title>Gdy wieczorem gwiazdki płoną</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+    <songbooks>
+      <songbook name="Śpiewnik Pielgrzyma" entry="664"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gdy wieczorem gwiazdki płoną,<br/>Na wysokim niebios tle,<br/>Zda się, że aniołów grono<br/>Duszę mą do nieba zwie.<br/>Tęskne wtedy z serca płyną,<br/>Tęskne myśli w niebios tło,<br/>Gdzie w ojczyźnie bóle giną,<br/>Łzy tęsknoty prędko schną.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wprawdzie jeszcze moje ciało<br/>Mieszka w ciemnym dole łez,<br/>Lecz me oko już dojrzało Kraj,<br/>gdzie smutku, żalu kres.<br/>W tym promiennym wiary kraju<br/>Nie ma cieni, nie ma nędz,<br/>Tam pielgrzymi już mieszkają<br/>W szacie z lśniąco białych przędz.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gwiazdy złote, jasno lśnijcie<br/>Wszystkim biednym w ziemski kraj,<br/>Smutnych synów ludzkich zwijcie<br/>Wznosić serca w jasny raj!<br/>By w nadziei, żywej wierze<br/>Mogli się w niebiosa wzbić,<br/>Całym sercem swym i szczerze<br/>Boga pieśnią chwały Czcić!</lines>
+    </verse>
+  </lyrics>
+</song>

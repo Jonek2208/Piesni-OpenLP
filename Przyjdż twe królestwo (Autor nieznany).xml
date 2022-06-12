@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:02:02">
+  <properties>
+    <titles>
+      <title>Przyjdż twe królestwo</title>
+    </titles>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+    <songbooks>
+      <songbook name="Śpiewnik Pielgrzyma" entry="554"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Przyjdź Twe królestwo! Wszędzie brzmi dokoła Przez morza, ląd; już Pański słychać zew. Przyjdź Twe królestwo! Niech, kto gotów, woła, Niech wybawionych mocny zabrzmi śpiew.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Przyjdź Twe królestwo! Nieście to orędzie! Świat zginie raz, niepomny Bożych słów. Niech siew światłości owoc wyda wszędzie, Bo Zbawca świata wkrótce przyjdzie znów.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Przyjdź Twe królestwo! Przed Nim, o narody, Padnijcie wnet; już zguby słychać trzask! Ostatnia chwila zburzyć grzechu grody I wejść z bezdroży do przybytku łask</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Refr.: Przyjdź Twe królestwo! Przyjdź już rychło, Panie; Racz w Swojej chwale nam objawić się I już na wieki objąć panowanie! Niech cała ziemia kornie uczci Cię!</lines>
+    </verse>
+  </lyrics>
+</song>

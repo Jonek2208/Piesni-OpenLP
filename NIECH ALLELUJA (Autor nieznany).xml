@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-05T23:59:59">
+  <properties>
+    <titles>
+      <title>NIECH ALLELUJA</title>
+    </titles>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>. / Niech Alleluja Bogu brzmi / 2x h 214<br/>Niech Alleluja, niech Alleluja<br/>Niech Alleluja Bogu brzmi</lines>
+    </verse>
+    <verse name="v2">
+      <lines>. / Jezus zmartwychwstał chwała Mu / 2x<br/>Jezus zmartwychwstał, Jezus zmartwychwstał,<br/>Jezus zmartwychwstał chwała Mu</lines>
+    </verse>
+    <verse name="v3">
+      <lines>. / Jezus powróci wkrótce znów / 2x<br/>Jezus powróci, Jezus powróci<br/>Jezus powróci wkrótce znów</lines>
+    </verse>
+    <verse name="v4">
+      <lines>. / Jezus wciąż żyje w sercu mym / 2x<br/>Jezus wciąż żyje, Jezus wciąż żyje<br/>Jezus wciąż żyje w sercu mym</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-05T23:59:55">
+  <properties>
+    <titles>
+      <title>Bogiem moim jest</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Bogiem moim jest Światłem moim jest<br/>Bóg Abrahama, Izaaka, Jakuba<br/>Odwiecznym Bogiem On<br/>Co stworzył ziemi krąg<br/>Więc chwalmy Go w imieniu Jezusa</lines>
+      <lines>Obdarował nas miłością swą<br/>Bóg Abrahama, Izaaka, Jakuba<br/>Cóż Ci mogę dać Panie mój<br/>Prócz wdzięczności mej<br/>Więc chwalę Cię w imieniu Jezusa</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:01:53">
+  <properties>
+    <titles>
+      <title>Jezu, ma słodyczy</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+    <songbooks>
+      <songbook name="Śpiewnik Pielgrzyma" entry="735"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jezu, ma słodyczy,<br/>Dusza sobie życzy Z rana<br/>Twój usłyszeć głos,<br/>Co mi błogość zawsze niósł.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Któż zastąpić w stanie<br/>Twoje wspomaganie?<br/>Któż w potrzebie radę da,<br/>Gdy nie wesprze ręka Twa?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Miłosierny Panie,<br/>Dałeś obiecanie,<br/>2e kto tylko prosić chce,<br/>Znajdzie, weźmie dary Twe.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Niechże więc, o Boże,<br/>Troski na Cię złożę;<br/>Gdy Ty źródłem siły mej,<br/>Wszelka praca pójdzie lżej.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Hojnyś i bogaty;<br/>I do biednej chaty<br/>Niesie dobry anioł Twój<br/>Różnych błogosławieństw rój.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Czyste daj sumienie,<br/>Spraw mi odpuszczenie,<br/>Powiedz do mnie: Sługo mój,<br/>Pójdź, gdzie jest błogości zdrój.</lines>
+    </verse>
+  </lyrics>
+</song>

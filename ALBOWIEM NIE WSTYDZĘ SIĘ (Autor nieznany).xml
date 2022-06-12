@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-05T23:59:54">
+  <properties>
+    <titles>
+      <title>ALBOWIEM NIE WSTYDZĘ SIĘ</title>
+    </titles>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ALBOWIEM NIE WSTYDZĘ SIĘ<br/>EWANGELII CHRYSTUSOWEJ<br/>JEST ONA BOWIEM MOCĄ BOŻĄ<br/>KU ZBAWIENIU</lines>
+    </verse>
+    <verse name="v2">
+      <lines>KAŻDEGO KTO WIERZY<br/>KAŻDEGO KTO WIERZY<br/>KAŻDEGO KTO WIERZY W JEZUSA<br/>KAŻDEGO KTO WIERZY W JEZUSA<br/>W JEZUSA</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:01:49">
+  <properties>
+    <titles>
+      <title>Do ciebie, duszo, zbliżam się</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+    <songbooks>
+      <songbook name="Śpiewnik Pielgrzyma" entry="132"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Do ciebie, duszo, zbliżam się<br/>I cicho pukam w serce twe.<br/>Czy słyszysz to pukanie Me?<br/>Czy chcesz otworzyć serce swe?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>W Mej skroni wieniec z cierni tkwił;<br/>Jam zmarł, byś ty na wieki żył;<br/>Za ciebie krzyż musiałem nieść.<br/>Czy mogę wejść? Czy mogę wejść?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>U progu, stojąc pragnę wejść,<br/>Mój pokój w serce twoje wnieść.<br/>Odezwij się na Moją wieść!<br/>Czy mogę wejść? Czy mogę wejść?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O duszo, zbawić ciebie chcę!<br/>Zbawienie przyjm, nie wahaj się!<br/>Odpowiedz dziś na taką wieść:<br/>Czy mogę wejść? Czy mogę wejść?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ach, otwórz serca swego drzwi -<br/>Zbawienie, pokój niosę ci.<br/>O, duszo grzeszna, przyjm tę wieść!<br/>Czy mogę wejść? Czy mogę wejść?</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:00:01">
+  <properties>
+    <titles>
+      <title>Panie nasz i Stwórco</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c2</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Panie nasz i Stwórco<br/>Cały świat u Twoich stóp<br/>W miejscu świętym gdzie przebywasz<br/>Nieustannie chwała brzmi</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oczy swe otwieram<br/>Tobie dzień powierzać chcę<br/>Gdy potykam się w ciemności<br/>Wzywam święte Imię Twe</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Boże cudów jedynym Panem Tyś<br/>Jesteś Święty, Święty<br/>Cały wszechświat uwielbia Imię Twe<br/>Jesteś Święty, Święty<br/>Nieba, ziemi Pan, nieba, ziemi Pan</lines>
+    </verse>
+    <verse name="c2">
+      <lines>/Boże cudów jedynym Panem Tyś<br/>Jesteś Święty, Święty<br/>Cały wszechświat uwielbia Imię Twe<br/>Jesteś Święty, Święty /x2<br/>Nieba, ziemi Pan, nieba, ziemi Pan,</lines>
+    </verse>
+  </lyrics>
+</song>

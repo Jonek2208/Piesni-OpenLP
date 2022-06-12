@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-03-13T09:00:16">
+  <properties>
+    <titles>
+      <title>Tam na krzyżu, na Golgocie</title>
+    </titles>
+    <verseOrder>v1 c1 v1 c1</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tam na krzyżu, na Golgocie<br/>Umarł Jezus za grzechy i choroby twe.<br/>On zmartwychwstał, śmierć pokonał<br/>Z grobu powstał<br/>Tak prawdziwie żyje Pan.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Nie bój się tylko wierz, nie bój się tylko wierz,<br/>Nie bój się tylko wierz<br/>Zaufaj Jezusowi dziś /x2</lines>
+    </verse>
+  </lyrics>
+</song>

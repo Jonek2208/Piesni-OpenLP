@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:01:50">
+  <properties>
+    <titles>
+      <title>Gdy droga zbyt trudną wydaje ci się</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+    <songbooks>
+      <songbook name="Śpiewnik Pielgrzyma" entry="516"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gdy droga zbyt trudną<br/>Wydaje ci się,<br/>To z śpiewem za Panem idź w ślad;<br/>Szatana to złości,<br/>Gdy wiary brzmi pieśń,<br/>Lecz Jezus nasz słucha jej rad.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A choć wkoło ciebie<br/>Rozbrzmiewa ryk lwa,<br/>Wierz Panu i śmiało wprzód idź,<br/>Wszechmocną i wierną prawicę On ma;<br/>Pomocą twą pragnie ci być.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gdy przyszłoby ci<br/>Do więzienia iść bram,<br/>Niech wiara Twa wyjdzie na jaw.<br/>Pamiętaj, jak z Pawłem<br/>I Sylą Bóg Sam<br/>Wielmożnych dokonał tam spraw.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Gdy Daniel raz musiał<br/>Do jamy iść lwiej,<br/>On pewnie z śpiewaniem tam szedł.<br/>Gdy Pan Bóg pomocy udzieli nam Swej,<br/>Radośnie i błogo jest wnet.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Gdzy trzech mężów Bożych<br/>Wrzucano raz w piec,<br/>Nie bali się, bo strzegł ich Bóg.<br/>Gdy Jezus wszechmocny<br/>I mnie będzie strzec,<br/>Przez ogień iść mogę bez trwóg.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Najlepiej iść z śpiewem przez świat,<br/>Alleluja!<br/>Najlepiej iść z śpiewem przez świat,<br/>Alleluja!<br/>Szatana to złości,<br/>Gdy wiary brzmi pieśń,<br/>Lecz Jezus nasz słucha jej rad.</lines>
+    </verse>
+  </lyrics>
+</song>

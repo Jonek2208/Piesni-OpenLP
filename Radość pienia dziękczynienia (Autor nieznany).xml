@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:02:03">
+  <properties>
+    <titles>
+      <title>Radość pienia dziękczynienia</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+    <songbooks>
+      <songbook name="Śpiewnik Pielgrzyma" entry="064"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Radość pienia dziękczynienia!<br/>Co za dzień dziś światu dan!<br/>Biją dzwony, dźwięczne tony<br/>Głoszą: Z grobu powstał Pan!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Radość, pienia, dziękczynienia!<br/>Syjon śpiewa z nami wraz.<br/>Wróg się kryje, Zmarły żyje,<br/>Odwalony grobu głaz.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tchnienie wiosny, maj radosny<br/>I cudowny Ducha wiew!<br/>Serce bije: Jezus żyje!<br/>W Nim nowego życia siew.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Niebios dzwony w wyższe strony<br/>Powołują z ziemi nas.<br/>W dom Ojcowski anioł Boski,<br/>Jezus woła: „Chodźcie wraz!"</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Pięknie, głośno,<br/>rozbrzmiewajcie, dzwony!<br/>Dzieci Boże,<br/>pieśni waszych tony<br/>Niech brzmią!<br/>O wznieście śpiew<br/>Do niebios stref!</lines>
+    </verse>
+  </lyrics>
+</song>

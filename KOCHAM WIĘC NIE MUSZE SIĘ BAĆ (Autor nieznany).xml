@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-05T23:59:58">
+  <properties>
+    <titles>
+      <title>KOCHAM WIĘC NIE MUSZE SIĘ BAĆ</title>
+    </titles>
+    <verseOrder>v1 v2 c1 v3 v2 c1</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/KOCHAM WIĘC NIE MUSZĘ SIĘ BAĆ<br/>ZABIERZ MÓJ STRACH<br/>ZABIERZ MÓJ STRACH<br/>ZABIERZ MÓJ STRACH/ X2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>JEZUS MÓWI CI, ŻE MIŁOŚĆ TA:<br/>ZABIERA STRACH<br/>ZABIERA STRACH<br/>ZABIERA STRACH</lines>
+    </verse>
+    <verse name="v3">
+      <lines>/JEZUS DAJE CI MIŁOŚĆ SWĄ<br/>NIE LĘKAJ SIĘ<br/>NIE LĘKAJ SIĘ<br/>NIE LĘKAJ SIĘ/ X2</lines>
+    </verse>
+    <verse name="c1">
+      <lines>JEZUS, JEZUS, JEZUS<br/>OOO</lines>
+    </verse>
+  </lyrics>
+</song>

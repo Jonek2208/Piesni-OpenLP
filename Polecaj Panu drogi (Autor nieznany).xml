@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:02:01">
+  <properties>
+    <titles>
+      <title>Polecaj Panu drogi</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+    <songbooks>
+      <songbook name="Śpiewnik Pielgrzyma" entry="412"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Polecaj Panu drogi<br/>I cały życia znój;<br/>On zwolni cię od trwogi,<br/>Da przejść przez krzyż i bój.<br/>Kto chmurom, wichrom, burzy<br/>Wyznaczać umie szlak,<br/>Ten i na ścieżki twoje<br/>Swej łaski ześle znak.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O, ufaj Panu śmiele,<br/>Na Niego troskę zrzuć,<br/>Przy każdym swoim dziele<br/>Nań swe spojrzenie zwróć.<br/>Troskami, kłopotami<br/>Nie zmożesz przygód złych,<br/>We wszystkim Doń się zwracaj:<br/>On modłów czeka twych.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nie bolej, duszo moja,<br/>Wierz i nie lękaj się!<br/>Z boleści i utrapień<br/>Pan wyprowadzi cię.<br/>Gdy Jemu ufać będziesz,<br/>To Dawca błogich łask<br/>Ukaże ci w oddali<br/>Radości Bożej blask.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Więc rozstań się z goryczą,<br/>Co trawi serce twe,<br/>Co twą krępuje wolę<br/>I boleść w duszę tchnie;<br/>Wszak nie ty jesteś Panem,<br/>Nie zawisł świata los<br/>Od ciebie, lecz kieruje Nim<br/>Pana twego głos.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>A jeśli się pokaże,<br/>Żeś popadł w grzech i kłam,<br/>To On cię oswobodzi,<br/>Gdyż ich nie zmożesz sam.<br/>I z serca twego zdejmie<br/>Brzemiona ciężkich trosk,<br/>Co w słońcu Jego łaski<br/>Topnieją niby wosk.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Szczęśliwyś, jeśli zawsze<br/>Cię wiodła Pana dłoń,<br/>Bo wieńcem On wybranych<br/>Ozdobi twoją skroń.<br/>Bóg Sam da tobie palmy<br/>Do prawej ręki twej<br/>I będziesz śpiewał psalmy<br/>Na cześć miłości tej.</lines>
+    </verse>
+  </lyrics>
+</song>

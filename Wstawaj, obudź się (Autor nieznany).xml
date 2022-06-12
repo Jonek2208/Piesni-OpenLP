@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:00:04">
+  <properties>
+    <titles>
+      <title>Wstawaj, obudź się</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>WSTAWAJ, OBUDŹ SIĘ, ŻYCIE TO NIE SEN<br/>NAPRZÓD, PODNIEŚ SIĘ, NIE OCIĄGAJ SIĘ.<br/>NIE BÓJ SIĘ, DOBRZE JEST, NIE UKRYWAJ SIĘ - O NIE!<br/>MIECZEM TWYM, MIŁOŚĆ JEST, TO HEROSÓW ZNAK!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>JEZUS KOCHA MNIE, DOBRZE O TYM WIEM.<br/>BIBLIA MÓWI MI, ŻE TAK WŁAŚNIE JEST<br/>SERCE TWE SILNE JEST, GDY MIŁOŚCI PEŁNE JEST<br/>KOCHAĆ CHCIEJ, W KAŻDY DZIEŃ, TERAZ JEST TEN CZAS.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>SILNY NIE TEN, KTO WIĘKSZY JEST - OD CIEBIE!<br/>SIŁĄ NIE MIĘŚNIE, LECZ SERCE JEST - PAMIĘTAJ!<br/>SIŁĄ NIE PIENIĄDŹ, LECZ JEZUS JEST - DLA CIEBIE!<br/>SILNY JEST TEN, KTO KOCHA CIĘ<br/>SILNY JEST TEN, KTO KOCHA MNIE.<br/>JEZUS, JEZUS, JEZUS, MÓJ JEZUS<br/>KOCHA, PRZEBACZA, JEZUS, MÓJ JEZUS.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>PRZYJDŹ I STAŃ PRZED OBLICZEM JEGO<br/>ODDAJ MU, SERCE SWE<br/>ZRÓB TEN KROK, JEZUS POPROWADZI CIĘ.<br/>SWEGO DUCHA TOBIE DA.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>PRZYJDŹ I STAŃ PRZED OBLICZEM JEGO<br/>ODDAJ DZIŚ, CAŁY STRACH<br/>PRZYTULI CIĘ, PRZEBACZY TEŻ.<br/>PRZYJDŹ I STAN, I ODWAŻ SIĘ,<br/>PRZYJDŹ I STAŃ, I ODDAJ SIĘ.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>NIE PODDAJ SIĘ, GDY WALKA TRWA<br/>ODDAJ MU DZIŚ, CAŁY SWÓJ STRACH<br/>NIE PODDAJ SIĘ, GDY CIĘŻKO JEST<br/>ODDAJ MU DZIŚ CAŁY SWÓJ GRZECH</lines>
+    </verse>
+    <verse name="c1">
+      <lines>KIEDY PRZYJDZIE DZIEŃ, BĘDZIEMY GOTOWI<br/>BY ZOBACZYĆ CIĘ TWARZĄ W TWARZ<br/>KAŻDY MOŻE DZIŚ DO JEZUSA PRZYJŚĆ<br/>ODDAJ JEMU SERCE, ODDAJ SWÓJ CZAS.</lines>
+    </verse>
+  </lyrics>
+</song>

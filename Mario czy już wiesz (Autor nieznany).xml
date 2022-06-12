@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-05T23:59:58">
+  <properties>
+    <titles>
+      <title>Mario czy już wiesz</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mario, czy już wiesz, kim okaże się Twój syn, Twój mały chłopiec?<br/>Mario, czy Ty wiesz, że te stópki dwie po wodzie będą kroczyć?<br/>Czy Ty wiesz, że ta mała dłoń, powstrzyma wielki wiatr,<br/>Że dałaś życie Temu, kto Tobie życie dał?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mario czy Ty wiesz, że pewnego dnia, przywróci wzrok ślepemu?<br/>Mario czy już wiesz, że Twój synek ma wybawić nas od złego?<br/>Czy Ty wiesz, że Twój chłopiec już niebiańskie ścieżki zna?<br/>Że patrząc w jego oczy, najświętszą widzisz twarz ?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ślepemu wzrok, głuchemu dźwięk, zmarłemu życia dar.<br/>Chromemu krok, niememu pieśń, przynosi Chrystus Pan!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mario czy Ty wiesz, kim naprawdę jest, maleńki Twój bohater<br/>Mario czy Ty wiesz, że pewnego dnia, On rządzić będzie światem<br/>Czy Ty wiesz, że to właśnie On, pokona grzech i śmierć<br/>Dziecko śpiące w Twych ramionach na imię ma „Jam Jest".</lines>
+    </verse>
+  </lyrics>
+</song>

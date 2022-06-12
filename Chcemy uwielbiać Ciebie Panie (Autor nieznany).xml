@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-05T23:59:55">
+  <properties>
+    <titles>
+      <title>Chcemy uwielbiać Ciebie Panie</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Chcemy uwielbiać Ciebie Panie<br/>Oddać Tobie chwałę i cześć.<br/><br/>Bo tylko Ty jesteś godzien chwały<br/>Tyś Królem naszym jest.<br/>Chcemy uwielbiać Cię przez granie<br/>Wznosić Tobie pochwalną pieśń.</lines>
+    </verse>
+  </lyrics>
+</song>

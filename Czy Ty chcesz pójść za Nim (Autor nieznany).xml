@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:01:23">
+  <properties>
+    <titles>
+      <title>Czy Ty chcesz pójść za Nim</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+    <songbooks>
+      <songbook name="Śpiewnik Wędrowiec" entry="204"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Czy Ty chcesz pójść za Nim,<br/>Tam do niebios bram<br/>Czy Ty chcesz być cząstką szczęśliwości sam?<br/>Czy chcesz być z Jezusem w tym wspaniałym dniu?<br/>Oddaj Mu chwałę, uwielbiaj Go!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Proś o wybaczenie wszystkich swoich win,<br/>W mocy Jego Ducha krocz za Nim w ślad<br/>Bożą miłością dnia każdego chodź,<br/>Czekaj aż Pan przyjdzie, uwielbiaj Go!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Wielbij Go i wzywaj w każdy czas,<br/>Wielbij Go, bo On wybawił nas.<br/>Nasz Pan przychodzi,<br/>By zabrać nas w swój dom<br/>Jeśli chcesz pójść za Nim, uwielbiaj Go.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:01:55">
+  <properties>
+    <titles>
+      <title>Któż poznał myśli Pana</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+    <songbooks>
+      <songbook name="Śpiewnik Pielgrzyma" entry="205"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Któż poznał myśli Pana,<br/>Kto Jemu rady dał?<br/>Powierzcie Mu się śmiele,<br/>Śpiewajcie psalmy chwał!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I jam Go nie rozumiał -<br/>Otwarcie wyznam to<br/>Aż dotknął oczu moich.<br/>Zroszonych gorzką łzą.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bo myśl i drogi Boże<br/>Od naszych wyższe są.<br/>Więc prowadź nas, o Panie,<br/>Już tylko drogą Swą!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wiem, w kogo uwierzyłem.<br/>Me serce czuje Cię.<br/>Już Ciebie nie odstąpię.<br/>Przy Tobie zostać chcę.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Upokorz się, ma duszo,<br/>Pod mocną Pańską dłoń<br/>I przed Nim w uniżaniu<br/>Kolana swoje skłoń!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Niech czyni, co chce z nami,<br/>We wszystkim ma Swój cel.<br/>Tych, którzy tu są Jego,<br/>Oblecze w jasną biel</lines>
+    </verse>
+  </lyrics>
+</song>

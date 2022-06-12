@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-05T23:59:59">
+  <properties>
+    <titles>
+      <title>Nie z krwią i ciałem toczymy bój</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nie z krwią i z ciałem toczymy bój<br/>Nie z bratem, siostrą zmagamy się<br/>Nadziemskie władze to jest nasz wróg<br/>Zwierzchności w górze, władcy, duchy złe</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Zdecydowałem, nie cofnę się już stąd<br/>Zdecydowałem, odbieram ziemię swą<br/>Zdecydowałem, nie oddam już nic<br/>Wezmę miecz, będę stał jak lew<br/>Walcząc w imieniu twym</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jezus! To Panów Pan<br/>Jezus! Zwycięski Król<br/>Jezus! Lew z rodu Judy</lines>
+    </verse>
+  </lyrics>
+</song>

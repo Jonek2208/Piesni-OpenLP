@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:02:06">
+  <properties>
+    <titles>
+      <title>Witaj, cichy, witaj mi, wieczorze</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+    <songbooks>
+      <songbook name="Śpiewnik Pielgrzyma" entry="668"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Witaj, cichy, witaj mi, wieczorze,<br/>odpoczynkiem po kłopotach dnia!<br/>O jak błogo spocząć o tej porze,<br/>Gdy w pokoju Bożym serce trwa!<br/>Ileż błoższy będzie wieczór ten,<br/>Gdy spoczynek nam u Siebie sprawi Boży Syn!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pozostaje jeszcze odpocznienie<br/>Dla strudzonych w boju wiernych sług,<br/>Gdy z ochłodą wieczór życia spłynie,<br/>Dając odpocznienie z Pańskich rąk.<br/>O, w tej chwili kres nastanie łzom,<br/>Kiedy po pielgrzymki trudach wejdziem w Ojca dom.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O przybytku wieczny świętej ciszy,<br/>W której grzech nie znajdzie miejsca już,<br/>Gdzie w nagrodę słodkie się usłyszy Słowa Zbawcy,<br/>Przyjaciela dusz! Zbawicielu,<br/>wiedź mię w niebo, wiedź,<br/>Bym po trudach odpocznienie mógł u Ciebie mieć.</lines>
+    </verse>
+  </lyrics>
+</song>

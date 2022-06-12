@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:01:58">
+  <properties>
+    <titles>
+      <title>O, jak błogo żyć dla Ciebie</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+    <songbooks>
+      <songbook name="Śpiewnik Pielgrzyma" entry="406"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O, jak błogo żyć dla Ciebie,<br/>Błogo i wśród srogich mąk,<br/>Bo mię wzmacniasz w złej potrzebie,<br/>Lekkie jarzmo z Twoich rąk.<br/>Ze strumieni Twego słowa,<br/>Którym sycę duszy głód,<br/>Wciąż mi płynie siła nowa<br/>I osładza ciężki trud.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Cieszycielu mój i Panie,<br/>Już ja o tym dawno wiem,<br/>Że Twe słowo tylko w stanie<br/>Dać podporę w życiu tym.<br/>Prowadź mię drogami Swymi;<br/>Chcę za Tobą, Panie, iść,<br/>Tobie złożyć dobra ziemi,<br/>Z Tobą do wieczności wnijść.</lines>
+    </verse>
+  </lyrics>
+</song>

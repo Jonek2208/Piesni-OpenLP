@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-05T23:59:59">
+  <properties>
+    <titles>
+      <title>Niech oczy twe ujrzą Bożej chwały blask</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Niech oczy twe ujrzą Bożej chwały blask.<br/>Niech zabrzmi pieśń, Śpiewem Pana chwal.<br/>O! Boże mój, chcę sławić Cię.<br/>Alleluja! Miłuję Cię!</lines>
+    </verse>
+  </lyrics>
+</song>

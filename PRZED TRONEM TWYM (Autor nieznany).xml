@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:00:01">
+  <properties>
+    <titles>
+      <title>PRZED TRONEM TWYM</title>
+    </titles>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>PRZED TRONEM TWYM STOIMY<br/>WPATRZENI W TWEJ MIŁOŚCI BLASK<br/>DO CIEBIE PANIE PODOBNI STAJEMY SIĘ WIDZĄC TWĄ TWARZ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>CHWAŁA TWA WYPEŁNIA NAS<br/>OBECNOŚCI TWOJEJ BLASK,<br/>GDY WIELBIMY CIEBIE WIEM JESTEŚ TU.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>/CHWAŁA CZEŚĆ, MĄDROŚĆ MOC BŁOGOSŁAWIEŃSTWO<br/>NA WIEKI, NA WIEKI/X2</lines>
+    </verse>
+  </lyrics>
+</song>

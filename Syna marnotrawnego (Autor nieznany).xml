@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:00:02">
+  <properties>
+    <titles>
+      <title>Syna marnotrawnego</title>
+    </titles>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Syna marnotrawnego do domu wzywa Bóg:<br/>"Wróć, zbłąkany synu, wróć, do domu wróć!"<br/>Chociaż dawno rzuciłeś bezpieczny Ojca próg,<br/>Bóg z miłością woła cię wciąż.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bóg wciąż czeka, byś wreszcie powierzył Mu swój los,<br/>wciąż cierpliwie woła, wróć, wciąż woła cię.<br/>Będzie źle, gdy zagłuszysz Świętego Ducha głos,<br/>wróć, dopóki Bóg jeszcze zwie.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wróć, tam w domu Ojcowskim jest chleba zawsze dość,<br/>Ojciec ciebie woła: "Wróć, do domu wróć!".<br/>Spójrz, już stół zastawiony, tyś więcej jest niż gość,<br/>wróć, łachmany swe wreszcie zrzuć.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><chord name="chorus"/><br/>Jezus woła cię, zbłąkany synu, pójdź Doń!<br/>Jezus woła cię, zbłąkany synu, pójdź Doń!</lines>
+    </verse>
+  </lyrics>
+</song>

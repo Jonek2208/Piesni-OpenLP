@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:02:03">
+  <properties>
+    <titles>
+      <title>Raz skończy się dźwięk zwykłych pień</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+    <songbooks>
+      <songbook name="Śpiewnik Pielgrzyma" entry="655"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Raz skończy się dźwięk zwykłych pień<br/>I struny pękną, przyjdzie noc;<br/>Lecz błogo mi - za krótki dzień<br/>Mnie wzbudzi Króla wieczna moc.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Raz schyli się me ciało w proch<br/>- Ja nie wiem gdzie, i nie wiem dnia,<br/>Lecz pewnym jest, że Jezus - Bóg<br/>Dla mnie tam w górze miejsce ma.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Raz - może tak u schyłku dnia<br/>I mnie doleci Pański zew;<br/>Chodź, pracę skończ, dziecino ma,<br/>By spocząć już wśród rajskich drzew!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Raz i mnie Pan otworzy drzwi,<br/>- Tej chwili cicho czekać chcę;<br/>Ma lampa płonie, radość lśni,<br/>2e dusza z Nim połączy się!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Raz przyjdzie koniec i twych dni.<br/>- Czy myślisz nań? O, pilnie bacz!<br/>Czy światłość świecić będzie ci?<br/>Czy łaskę masz - czy cze¬ka płacz?<br/>[;Więc szukaj Pana w dzień i w noc,<br/>On Zbawca twój i wierny Wódz /x2</lines>
+    </verse>
+    <verse name="c1">
+      <lines>/ Tam zabrzmi psalm: Spełniło się!<br/>Jedynie łaska zbawia mię! /x2</lines>
+    </verse>
+  </lyrics>
+</song>
