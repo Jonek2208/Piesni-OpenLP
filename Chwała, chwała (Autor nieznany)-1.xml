@@ -1,29 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:01:22">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-06-13T16:16:52">
   <properties>
     <titles>
       <title>Chwała, chwała</title>
     </titles>
-    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <verseOrder>v1</verseOrder>
     <authors>
       <author>Autor nieznany</author>
     </authors>
-    <songbooks>
-      <songbook name="Śpiewnik Wędrowiec" entry="110"/>
-    </songbooks>
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Chwała, chwała, Alleluja<br/>Porzuciłem brzemię swe.<br/>Chwała, chwała, Alleluja<br/>Porzuciłem brzemię swe.</lines>
-    </verse>
-    <verse name="v2">
-      <lines>Zawsze byłem przygnębiony,<br/>Kiedy brzemię gniotło mnie.<br/>Zawsze byłem przygnębiony<br/>Kiedy brzemię gniotło mnie.</lines>
-    </verse>
-    <verse name="v3">
-      <lines>Czuję radość, wielką radość<br/>Porzuciłem brzemię swe.<br/>Czuję radość, wielką radość<br/>Porzuciłem brzmię swe.</lines>
-    </verse>
-    <verse name="v4">
-      <lines>Chwała, Chwała, Chwała, Alleluja<br/>Chwała, Chwała, Chwała, Alleluja<br/>Alleluja, Alleluja, Alleluja, Alleluja<br/>Porzuciłem brzemię swe.</lines>
+      <lines>Chwała, chwała Król jest godzien czci.<br/>Chwała, chwała Król jest godzien czci.<br/><br/>Kto jest tym Królem chwały<br/>Tym Królem Chrystus Pan<br/>Wywyższony ponad wszystko na ziemi jest<br/>Jego imię głośno brzmi.</lines>
     </verse>
   </lyrics>
 </song>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-06-13T17:16:36">
+  <properties>
+    <titles>
+      <title>Większy jest Ten, który mieszka w nas</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Większy jest Ten, który mieszka w nas<br/>Większy niż Ten, który w świecie jest<br/>Bo jezus nasz Pan, nadziemskie władze<br/>Zwierzchności rozbroił<br/>I wystawił je na pokaz nam<br/>Odniósłszy na krzyżu wielki triumf nad nimi,<br/>Dzisiaj Panem i Królem królów jest</lines>
+    </verse>
+  </lyrics>
+</song>

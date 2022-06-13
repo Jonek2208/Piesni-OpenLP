@@ -1,29 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T08:38:38">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-06-13T16:17:04">
   <properties>
     <titles>
       <title>Święty, święty, święty</title>
     </titles>
-    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <verseOrder>v1</verseOrder>
     <authors>
       <author>Autor nieznany</author>
     </authors>
-    <songbooks>
-      <songbook name="Śpiewnik Pielgrzyma" entry="024"/>
-    </songbooks>
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Święty, święty, święty,<br/>Boże niezmierzony,<br/>Oto dzieci Twe, Przedwieczny,<br/>kornie wielbią Cię!<br/><p style="page-break-after: always;"/><br/>Święty, święty, święty,<br/>W łasce niezgłębiony,<br/>Trójco najświętsza,<br/>Tobie chwała, cześć!</lines>
-    </verse>
-    <verse name="v2">
-      <lines>Święty, święty, święty!<br/>Ciebie uwielbiają Cherubowie,<br/>Serafowie, patrząc w Twoją twarz.<br/><p style="page-break-after: always;"/><br/>A zwycięzcy swoje<br/>Wieńce Ci składają,<br/>Tyś był i jesteś,<br/>I na wieki trwasz!</lines>
-    </verse>
-    <verse name="v3">
-      <lines>Święty, święty, święty,<br/>Choć i w nocy toni,<br/>Choć nie widzi ludzkie oko<br/>wspaniałości Twej.<br/><p style="page-break-after: always;"/><br/>Tylko Tyś jest święty,<br/>Wszechświat w Twojej dłoni,<br/>Hojny w miłości,<br/>Mocy, chwale Swej!</lines>
-    </verse>
-    <verse name="v4">
-      <lines>Święty, święty, święty,<br/>Boże niezmierzony,<br/>Cały wszechświat pragnie<br/>uwielbienia hymn Ci wznieść.<br/><p style="page-break-after: always;"/><br/>Święty, święty, święty,<br/>W łasce niezgłębiony,<br/>Trójco najświętsza,<br/>Tobie chwała, cześć!</lines>
+      <lines>Święty, święty, święty /x2<br/>Święty jest nasz Pan, wszechmogący<br/>Godzien by przyjąć chwałę<br/>Godzien by Go uwielbiać<br/>Godzien by Go czcić<br/>Ze wszystkich sił<br/><br/>Jezus, Jezus najwyższy jest<br/>Jezus, Jezus mój zbawiciel<br/>Jezus, Jezus najwyższy jest<br/>Jezus, oddajcie Jemu chwałę</lines>
     </verse>
   </lyrics>
 </song>

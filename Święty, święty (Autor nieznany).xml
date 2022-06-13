@@ -1,26 +1,29 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:01:27">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-06-13T16:17:04">
   <properties>
     <titles>
       <title>Święty, święty</title>
     </titles>
-    <verseOrder>v1 v2 v3</verseOrder>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
     <authors>
       <author>Autor nieznany</author>
     </authors>
     <songbooks>
-      <songbook name="Śpiewnik Wędrowiec" entry="298"/>
+      <songbook name="Śpiewnik Wędrowiec" entry="053"/>
     </songbooks>
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>/ Święty, święty, święty jest nasz Pan!<br/>Święty jest nasz Pan Wszechmogący /x2<br/>On był i jest i przyjdzie znów!<br/>Święty, święty, święty jest nasz Pan!</lines>
+      <lines>Święty, święty, święty, święty,<br/>Święty, święty, Bóg Wszechmogący.<br/>Dziś wznosimy nasze serca<br/>Uwielbiając miłość Twą,<br/>Święty, święty, święty, święty!</lines>
     </verse>
     <verse name="v2">
-      <lines>/ Chwała, chwała, Barankowi cześć!<br/>Barankowi cześć, za nas zmarł! /x2<br/>On był i jest i przyjdzie znów!<br/>Chwała, chwała, Barankowi cześć!</lines>
+      <lines>Dobry Ojcze, dobry Ojcze!<br/>Jak to dobrze być Twym dzieckiem<br/>Dobry Ojcze.<br/>Dziś wznosimy nasze głowy<br/>Uwielbiając miłość Twą,<br/>Dobry Ojcze, drogi Ojcze!</lines>
     </verse>
     <verse name="v3">
-      <lines>/ Jezus, Jezus, On Barankiem jest!<br/>On Barankiem jest, za nas zmarł /x2<br/>On był i jest i przyjdzie znów!<br/>Jezus, Jezus, On Barankiem jest!</lines>
+      <lines>Drogi Jezu, drogi Jezu!<br/>Swoją krwią nas odkupiłeś<br/>Drogi Jezu.<br/>Dziś wznosimy nasze dłonie<br/>Uwielbiając miłość Twą,<br/>Drogi Jezu, drogi Jezu!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Duchu Święty, Duchu Święty!<br/>Przyjdź, napełnij nas swą mocą<br/>Duchu Święty.<br/>Dziś wznosimy nasze głosy<br/>Uwielbiając miłość Twą,<br/>Duchu Święty, Duchu Święty!</lines>
     </verse>
   </lyrics>
 </song>

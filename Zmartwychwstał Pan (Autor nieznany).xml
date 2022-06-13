@@ -1,23 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-04-17T06:43:40">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-06-13T16:17:07">
   <properties>
     <titles>
       <title>Zmartwychwstał Pan</title>
     </titles>
-    <verseOrder>v1 v2 v1 v2</verseOrder>
+    <verseOrder>v1 c1 v2 c1 v1 c1 v2 c1</verseOrder>
     <authors>
       <author>Autor nieznany</author>
     </authors>
-    <songbooks>
-      <songbook name="Śpiewnik Wędrowiec" entry="178"/>
-    </songbooks>
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Zmartwychwstał Pan! Przeminęła trwoga.<br/>Zmartwychwstał Pan! Zwyciężył śmierć!<br/>Zmartwychwstał Pan! Otworzył drogę,<br/>Więc życie me ma teraz sens, bo żyje Pan!</lines>
+      <lines>Zmartwychwstał Pan,<br/>Zwycięstwa chwałą niebo brzmi<br/>Któż tak jak On<br/>Majestatu blaskiem lśni</lines>
     </verse>
     <verse name="v2">
-      <lines>Wiem, żyje Pan! W Nim mam pewność jutra.<br/>Wiem, żyje Pan! Znikł wszelki strach.<br/>I wiem, że On zna moją przyszłość.<br/>Więc warto żyć, bo pewność mam, że żyje Pan!</lines>
+      <lines>Rozgłosić chcę<br/>Radosną zmartwychwstania wieść<br/>Na krzyżu Pan<br/>Przezwyciężył śmierć i grzech</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Baranek Królem jest<br/>Najwyższy zajął tron<br/>W pokorze chylę się<br/>Z radością składam hołd</lines>
     </verse>
   </lyrics>
 </song>

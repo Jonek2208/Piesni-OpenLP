@@ -1,26 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:01:27">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-06-13T16:17:03">
   <properties>
     <titles>
       <title>Przyjdź Duchu Święty</title>
     </titles>
-    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
+    <verseOrder>v1</verseOrder>
     <authors>
       <author>Autor nieznany</author>
     </authors>
-    <songbooks>
-      <songbook name="Śpiewnik Wędrowiec" entry="227"/>
-    </songbooks>
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Przyjdź jako mądrość do dzieci,<br/>Przyjdź jak ślepemu wzrok.<br/>Przyjdź jako moc w mej słabości,<br/>Weź wszystko, co moje jest!</lines>
-    </verse>
-    <verse name="v2">
-      <lines>Przyjdź jako źródło pustyni,<br/>Przyjdź prosto do naszych serc.<br/>O, niech Twa moc uzdrowienia<br/>Dotknie, uleczy mnie już!</lines>
-    </verse>
-    <verse name="c1">
-      <lines>Przyjdź Duchu Święty ja pragnę!<br/>O to dziś błagam Cię!<br/>Przyjdź w Swojej mocy i sile,<br/>Radością wypełnij mnie.</lines>
+      <lines>Przyjdź Duchu Święty<br/>Twój Kościół woła i wzdycha<br/>Przyjdź<br/><br/>Przyjdź duchu święty<br/>Potężną moc Jezusa objaw wśród nas<br/>Przyjdź w mocy i sile<br/>W sprawiedliwości<br/>W pełni pokoju<br/>W pełni radości<br/>By głosić czas łaski<br/>I namaszczenie<br/>By zabrać zwątpienie</lines>
     </verse>
   </lyrics>
 </song>

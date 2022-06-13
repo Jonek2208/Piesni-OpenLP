@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-06-13T17:22:25">
+  <properties>
+    <titles>
+      <title>Wielbić mego Pana Chcę, bo On godzien chwały jest</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wielbić mego Pana Chcę<br/>Bo On godzien chwały jest<br/>On uwalnia mnie sam od wrogów mych</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Moj Pan żyje<br/>Opoką moją On<br/>I niechaj będzie wywyższony mój Zbawiciel</lines>
+    </verse>
+  </lyrics>
+</song>

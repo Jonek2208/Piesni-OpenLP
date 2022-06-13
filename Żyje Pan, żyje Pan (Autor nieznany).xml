@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:01:29">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-06-13T18:04:52">
   <properties>
     <titles>
       <title>Żyje Pan, żyje Pan</title>
     </titles>
-    <verseOrder>v1 v2</verseOrder>
+    <verseOrder>v1 c1 v1 c1 v1</verseOrder>
     <authors>
       <author>Autor nieznany</author>
     </authors>
@@ -14,10 +14,10 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>/ Żyje Pan, żyje Pan!<br/>Żyje Pan, radujmy się!<br/>Jezus zmartwychwstał, chwała Mu! /x2</lines>
+      <lines>Żyje Pan, żyje Pan!<br/>Żyje Pan, radujmy się!<br/>Jezus zmartwychwstał, chwała Mu!<br/>Żyje Pan, żyje Pan!<br/>Żyje Pan, radujmy się!<br/>Jezus zmartwychwstał, chwała Mu!</lines>
     </verse>
-    <verse name="v2">
-      <lines>Śmierć już dłużej nie panuje,<br/>Zwyciężona piekieł moc!<br/>Jezus Król nasz triumfuje,<br/>Alleluja, śpiewam Mu!<br/>Żyje Pan...</lines>
+    <verse name="c1">
+      <lines>Śmierć już dłużej nie panuje,<br/>Zwyciężona piekieł moc!<br/>Jezus Król nasz triumfuje,<br/>Alleluja, śpiewam Mu!</lines>
     </verse>
   </lyrics>
 </song>

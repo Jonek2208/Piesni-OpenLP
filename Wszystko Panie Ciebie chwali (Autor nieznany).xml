@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:00:04">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-06-13T18:06:00">
   <properties>
     <titles>
       <title>Wszystko Panie Ciebie chwali</title>
     </titles>
-    <verseOrder>v1 v2</verseOrder>
+    <verseOrder>v1 c1 v1 c2</verseOrder>
     <authors>
       <author>Autor nieznany</author>
     </authors>
@@ -13,8 +13,11 @@
     <verse name="v1">
       <lines>Wszystko Panie Ciebie chwali<br/>Ptaki, kwiaty, wicher, woda<br/>Bo Ty wszystko masz w opiece<br/>Wszystko Tobie się podobać chce</lines>
     </verse>
-    <verse name="v2">
+    <verse name="c1">
       <lines>Panie jestem Twoim dzieckiem<br/>Ukochałeś mnie nad życie<br/>Mocną ręką mnie prowadzisz<br/>Błogosławisz mi sowicie sam</lines>
+    </verse>
+    <verse name="c2">
+      <lines>/ Panie jestem Twoim dzieckiem<br/>Ukochałeś mnie nad życie<br/>Mocną ręką mnie prowadzisz<br/>Błogosławisz mi sowicie sam /×2</lines>
     </verse>
   </lyrics>
 </song>

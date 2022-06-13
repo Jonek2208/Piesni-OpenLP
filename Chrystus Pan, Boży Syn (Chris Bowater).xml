@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-06-13T16:29:22">
+  <properties>
+    <titles>
+      <title>Chrystus Pan, Boży Syn</title>
+    </titles>
+    <verseOrder>v1 c1 v1 c2</verseOrder>
+    <authors>
+      <author>Chris Bowater</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Chrystus Pan, Boży Syn<br/>Zbawca nasz zgodził się<br/>Wziąć mój grzech, za mnie umrzeć chciał<br/>Ażebym znał mój ogrom win<br/>I wiedział że<br/>Krew Jego zbawia, oczyszcza i leczy</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Wywyższony bądź Jezu, Baranku mój<br/>Tyś jedyny Odkupiciel, Tyś mój Król<br/>Wywyższony bądź Boży Baranku<br/>Przed Twym tronem dziś<br/>Najwyższy składam hołd</lines>
+    </verse>
+    <verse name="c2">
+      <lines>/Wywyższony bądź Jezu, Baranku mój<br/>Tyś jedyny Odkupiciel, Tyś mój Król<br/>Wywyższony bądź Boży Baranku<br/>Przed Twym tronem dziś<br/>Najwyższy składam hołd /×2</lines>
+    </verse>
+  </lyrics>
+</song>

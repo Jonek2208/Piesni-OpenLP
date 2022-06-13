@@ -1,17 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:00:04">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-06-13T18:07:22">
   <properties>
     <titles>
       <title>Wejdź do Pańskich bram</title>
     </titles>
-    <verseOrder>v1</verseOrder>
+    <verseOrder>v1 c1 v1 c1</verseOrder>
     <authors>
       <author>Autor nieznany</author>
     </authors>
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Wejdź do Pańskich bram z sercem pełnym wdzięczności<br/>Przyjdź do Pana z pieśnią chwał<br/>Błogosław Mu i dziękuj wciąż<br/>Głośno raduj się, On zbawienia naszą skałą<br/>Pan nasz dobry jest<br/>Jego łaska trwać będzie na wieki<br/>Pan nasz dobry jest<br/>Jego łaska na wieki trwa</lines>
+      <lines>Wejdź do Pańskich bram z sercem pełnym wdzięczności<br/>Przyjdź do Pana z pieśnią chwał<br/>Błogosław Mu i dziękuj wciąż<br/>Głośno raduj się, On zbawienia naszą skałą</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Pan nasz dobry jest<br/>Jego łaska trwać będzie na wieki<br/>Pan nasz dobry jest<br/>Jego łaska na wieki trwa</lines>
     </verse>
   </lyrics>
 </song>

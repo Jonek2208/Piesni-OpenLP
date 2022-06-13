@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-06-13T17:38:24">
+  <properties>
+    <titles>
+      <title>Światło nieść tam gdzie ciemność trwa</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v2</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Światło nieść tam gdzie ciemność trwa<br/>By wskazać drogę, wieczności kraj<br/>Biec do mety u niebios bram<br/>Gdzie powita Cię Pan</lines>
+    </verse>
+    <verse name="v2">
+      <lines>/ Tak często pytasz o cel i sens<br/>Zaczynasz wszystko kolejny raz<br/>Kto zna kierunek, kto zna cel<br/>Jezus Chrystus nasz Pan /×2</lines>
+    </verse>
+  </lyrics>
+</song>

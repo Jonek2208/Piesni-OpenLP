@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-06-13T16:58:17">
+  <properties>
+    <titles>
+      <title>Dziękować Ci Panie chcę</title>
+      <title>Give Thanks with a Grateful Heart</title>
+    </titles>
+    <verseOrder>v1 c1 v1 c2</verseOrder>
+    <authors>
+      <author>Henry Smith</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/ Dziękować Ci Panie chcę<br/>Dziękować, boś świętym jest<br/>Dziękować, boś Jezusa Syna swego nam dał /×2</lines>
+    </verse>
+    <verse name="c1">
+      <lines>A dziś słaby powie mam Twą moc<br/>Biedny powie wszystko mam<br/>Bo Panie Ty to dałeś nam, Ty sam</lines>
+    </verse>
+    <verse name="c2">
+      <lines>/ A dziś słaby powie mam Twą moc<br/>Biedny powie wszystko mam<br/>Bo Panie Ty to dałeś nam, Ty sam /×2</lines>
+    </verse>
+  </lyrics>
+</song>

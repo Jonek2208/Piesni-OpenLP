@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-06-13T17:24:27">
+  <properties>
+    <titles>
+      <title>Tak jesteś godzien chwały i mocy</title>
+      <title>Ancient of Days</title>
+    </titles>
+    <verseOrder>v1 c1 v1 c1 b1 c1</verseOrder>
+    <authors>
+      <author>G. Sadler</author>
+      <author>Jamie Harvill</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tak jesteś godzien chwały i mocy<br/>Błogosławieństwa i czci<br/>Wszystkie narody, całe stworzenie<br/>Złoży pokłon przed tronem Twym</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Każdy język wyzna, że<br/>Jesteś Panem panów<br/>Na Twój widok zegnie się<br/>Każde kolano<br/>Niebo, ziemia odda Ci hołd<br/>Twe królestwo od wieków już<br/>Na wieki trwa</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Królestwo Chrystusa<br/>Zwycięża świat brzmi tryumfalna pieśń<br/>Na tronie zasiada odwieczny Pan<br/>Wszyscy oddają Mu cześć</lines>
+    </verse>
+  </lyrics>
+</song>

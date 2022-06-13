@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:01:49">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-06-13T17:49:27">
   <properties>
     <titles>
       <title>Do śmierci z Biblią świętą</title>
     </titles>
-    <verseOrder>v1 v2 v3</verseOrder>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
     <authors>
       <author>Autor nieznany</author>
     </authors>
@@ -14,13 +14,16 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Do śmierci z Biblią świętą<br/>już nie rozstanę się.<br/>Radością niepojętą<br/>napełnia ona mnie.<br/>Nigdy już, nigdy już<br/>mej biblii nie porzucę.<br/>Nigdy już, nigdy już<br/>nie porzucę księgi tej.</lines>
+      <lines>Do śmierci z Biblią świętą już nie rozstanę się.<br/>Radością niepojętą napełnia ona mnie.</lines>
     </verse>
     <verse name="v2">
-      <lines>Gdy drogi cel się zatrze<br/>wśród życia mego burz.<br/>Znów na Golgotę patrzę,<br/>bo biblia to mój stróż.<br/>Nigdy już, nigdy już<br/>mej biblii nie porzucę.<br/>Nigdy już, nigdy już<br/>nie porzucę księgi tej.</lines>
+      <lines>Gdy drogi cel się zatrze wśród życia mego burz.<br/>Znów na Golgotę patrzę, bo biblia to mój stróż.</lines>
     </verse>
     <verse name="v3">
-      <lines>Do łez mnie ona wzrusza.<br/>Z niej bije prawdy zdrój.<br/>I życie czerpie dusza<br/>to skarb najdroższy mój.<br/>Nigdy już, nigdy już<br/>mej biblii nie porzucę.<br/>Nigdy już, nigdy już<br/>nie porzucę księgi tej.</lines>
+      <lines>Do łez mnie ona wzrusza, z niej bije prawdy zdrój.<br/>I życie czerpie dusza to skarb najdroższy mój.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Nigdy już, nigdy już mej biblii nie porzucę.<br/>Nigdy już, nigdy już nie porzucę księgi tej.</lines>
     </verse>
   </lyrics>
 </song>

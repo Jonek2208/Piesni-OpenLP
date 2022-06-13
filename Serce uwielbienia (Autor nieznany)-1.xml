@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:00:02">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-06-13T16:17:03">
   <properties>
     <titles>
       <title>Serce uwielbienia</title>
@@ -11,16 +11,16 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Kiedy cichnie dźwięk, wszystko znika gdzieś, pozostaję sam,<br/>Pragnę przynieść Ci coś, co godne jest dotknąć serce Twe.</lines>
+      <lines>Kiedy milknie już muzyki dźwięk<br/>Tylko cisza gra<br/>Siadam u Twych stóp<br/>Pragnąc przynieść Ci<br/>Uwielbienia dar</lines>
     </verse>
     <verse name="v2">
-      <lines>Chcę dać Ci więcej niż pieśń,<br/>Muzyka sama w sobie nie, nie jest tym czego Ty chcesz.<br/>Ty słyszysz więcej niż to, to co słyszę ja sam,<br/>Przenikasz serce me w głąb.</lines>
+      <lines>Dam Ci więcej niż pieśń<br/>Więcej niż tylko dźwięk<br/>Wiem, nie wystarczy Ci on<br/>Ty słyszysz więcej niż to<br/>Co słyszalne dla nas jest<br/>Ty słyszysz serca głos</lines>
     </verse>
     <verse name="v3">
-      <lines>Wracam do serca uwielbienia,<br/>Pragnę widzieć Twą twarz, widzieć Twą Twarz, Panie.<br/>Wybacz mi to co zasmuca Ciebie,<br/>Pragnę widzieć Twą twarz, widzieć Twą Twarz, Panie.</lines>
+      <lines>Więc wracam do źródła uwielbienia<br/>A jesteś nim Ty<br/>Ty Panie jesteś nim<br/>Nie chcę przynosić już nic innego<br/>Jak tylko to kim<br/>Kim w Tobie jestem<br/>Panie</lines>
     </verse>
     <verse name="v4">
-      <lines>Nawet wiele słów nie opisze Cię, blasku chwały Twej.<br/>Ja zaś wobec niej nikim jestem wręcz,<br/>Jednak cały jestem Twój.</lines>
+      <lines>Królu proszę weź całe życie me<br/>Nadaj jemu sens<br/>Bo choć biedne i<br/>Tak słabe ciągle jest<br/>Proszę przyjmij je</lines>
     </verse>
   </lyrics>
 </song>

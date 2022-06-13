@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-06-13T16:18:34">
+  <properties>
+    <titles>
+      <title>Abba, Ojcze pragnę być</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+    <songbooks>
+      <songbook name="Śpiewnik Wędrowiec" entry="206"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Abba, Ojcze pragnę być<br/>Tylko Twoim już.<br/>By Twa wola w życiu mym<br/>Wypełniała się!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nie daj bym oziębnąć mógł<br/>Nie pozwól odejść mi.<br/>Abba, Ojcze pragnę być<br/>Tylko Twoim już.</lines>
+    </verse>
+  </lyrics>
+</song>

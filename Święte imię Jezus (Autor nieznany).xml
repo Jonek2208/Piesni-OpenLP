@@ -1,17 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-02-06T00:00:02">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-06-13T17:20:10">
   <properties>
     <titles>
       <title>Święte imię Jezus</title>
     </titles>
-    <verseOrder>v1</verseOrder>
+    <verseOrder>v1 c1 v1 c1</verseOrder>
     <authors>
       <author>Autor nieznany</author>
     </authors>
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Święte imię Jezus,<br/>Święte imię Jezus<br/>Jest na ustach mych i w sercu mym.<br/>W mocy ducha uwielbiam Cię. /x2<br/>Nie ma w innym zbawienia,<br/>Gdyż nie dano nam ludziom<br/>Innego imienia,<br/>W nim zbawienie jest. /x2</lines>
+      <lines>/ Święte imię Jezus,<br/>Święte imię Jezus<br/>Jest na ustach mych i w sercu mym.<br/>W mocy ducha uwielbiam Cię /×2</lines>
+    </verse>
+    <verse name="c1">
+      <lines>/ Nie ma w innym zbawienia,<br/>Gdyż nie dano nam ludziom<br/>Innego imienia,<br/>W nim zbawienie jest  /×2</lines>
     </verse>
   </lyrics>
 </song>

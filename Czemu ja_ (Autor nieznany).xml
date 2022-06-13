@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-03-20T11:11:21">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-06-13T17:45:12">
   <properties>
     <titles>
       <title>Czemu ja?</title>
     </titles>
-    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <verseOrder>v1 c1 v2 c2</verseOrder>
     <authors>
       <author>Autor nieznany</author>
     </authors>
@@ -20,7 +20,10 @@
       <lines>Wypróbuj mnie! Jeśli chcesz Panie mój<br/>Pójdę z Tobą przez świat, aby spłacić mój dług.<br/>Pomóż mi, znajdę takich jak ja<br/>Zanim odkryłem Cię, przyprowadzę ich tu</lines>
     </verse>
     <verse name="c1">
-      <lines>Pomóż mi Jezu, straciłem tak wiele<br/>Wiem teraz kim jestem sam.<br/>Teraz już wiem jaki byłem bez Ciebie<br/>Więc Jezu oddaję Ci się.</lines>
+      <lines>Pomóż mi Jezu, straciłem tak wiele<br/>Wiem teraz kim jestem sam.<br/>Teraz już wiem jaki byłem bez Ciebie<br/>Więc Jezu oddaję Ci się</lines>
+    </verse>
+    <verse name="c2">
+      <lines>/ Pomóż mi Jezu, straciłem tak wiele<br/>Wiem teraz kim jestem sam.<br/>Teraz już wiem jaki byłem bez Ciebie<br/>Więc Jezu oddaję Ci się /×2</lines>
     </verse>
   </lyrics>
 </song>

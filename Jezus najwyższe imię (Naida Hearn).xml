@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-06-13T16:34:33">
+  <properties>
+    <titles>
+      <title>Jezus najwyższe imię</title>
+    </titles>
+    <verseOrder>v1 c1 v1 c2</verseOrder>
+    <authors>
+      <author>Naida Hearn</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jezus, najwyższe imię<br/>Nasz Zbawiciel, Książę Pokoju<br/>Emanuel, Bóg jest z nami<br/>Odkupiciel, Słowo Żywota</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Święty Bóg, Mesjasz Prawdziwy<br/>Jedyny Ojca Syn umiłowany<br/>Zgładził grzech Baranek na wieki<br/>Królów Król, Panów Pan</lines>
+    </verse>
+    <verse name="c2">
+      <lines>/ Święty Bóg, Mesjasz Prawdziwy<br/>Jedyny Ojca Syn umiłowany<br/>Zgładził grzech Baranek na wieki<br/>Królów Król, Panów Pan /×2</lines>
+    </verse>
+  </lyrics>
+</song>

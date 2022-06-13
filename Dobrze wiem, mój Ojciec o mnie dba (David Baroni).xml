@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-06-13T16:54:27">
+  <properties>
+    <titles>
+      <title>Dobrze wiem, mój Ojciec o mnie dba</title>
+      <title>He's been good</title>
+    </titles>
+    <verseOrder>v1 c1 v1 c1 b1 v1</verseOrder>
+    <authors>
+      <author>David Baroni</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dobrze wiem mój Ojciec o mnie dba<br/>Dobry jest dobry jest<br/>W każdej chwili życia przy mnie trwa<br/>Dobry dla mnie jest</lines>
+    </verse>
+    <verse name="c1">
+      <lines>W czasie burz w noce złe<br/>On przychodzi by pocieszać znowu mnie</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Dobry jest<br/>Bóg mój dobry jest<br/>Dobry jest<br/>Dobry dla mnie jest</lines>
+    </verse>
+  </lyrics>
+</song>

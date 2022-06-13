@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-06-13T16:52:09">
+  <properties>
+    <titles>
+      <title>Chcemy Ciebie wielbić</title>
+      <title>O Lord to you</title>
+    </titles>
+    <verseOrder>v1 c1 v1 c2</verseOrder>
+    <authors>
+      <author>G. Sadler</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Chcemy Ciebie wielbić<br/>Szukać Twojej twarzy<br/>Wcześnie o poranku<br/>I gdy noc kładzie cień<br/><p style="page-break-after: always;"/><br/>Tobie chcemy śpiewać<br/>Wznieść niebiańską chwałę<br/>Dając nasze serca<br/>Byś je stale zmieniać mógł</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Niech się wznosi dziś Twa chwała<br/>O Panie nasz<br/>To dla Ciebie nasze serca<br/>Otwarte są</lines>
+    </verse>
+    <verse name="c2">
+      <lines>/ Niech się wznosi dziś Twa chwała<br/>O Panie nasz<br/>To dla Ciebie nasze serca<br/>Otwarte są /×2</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-06-12T07:57:29">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-06-13T16:43:16">
   <properties>
     <titles>
       <title>Godzien, o godzien jest Bóg</title>
@@ -20,7 +20,7 @@
       <lines>On Panem jest od wieków na wieki<br/>On Panem jest od wieków na wieki<br/>On Panem jest od wieków na wieki<br/>Amen</lines>
     </verse>
     <verse name="c2">
-      <lines>/ On Panem jest od wieków na wieki<br/>On Panem jest od wieków na wieki<br/>On Panem jest od wieków na wieki<br/>Amen /x2</lines>
+      <lines>/ On Panem jest od wieków na wieki<br/>On Panem jest od wieków na wieki<br/>On Panem jest od wieków na wieki<br/>Amen /×2</lines>
     </verse>
   </lyrics>
 </song>

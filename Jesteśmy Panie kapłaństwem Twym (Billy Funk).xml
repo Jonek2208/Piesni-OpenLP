@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-06-13T17:00:59">
+  <properties>
+    <titles>
+      <title>Jesteśmy Panie kapłaństwem Twym</title>
+      <title>Resound in Praise</title>
+    </titles>
+    <verseOrder>v1 c1 v1 c2</verseOrder>
+    <authors>
+      <author>Billy Funk</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesteśmy Panie kapłaństwem Twym<br/>By wielbić majestat Twój<br/>By ogłaszać Twoje dzieła dziś<br/>By każdy Ciebie poznać mógł.<br/><p style="page-break-after: always;"/><br/>Niebo i Ziemia wciąż głoszą Twą chwałę<br/>A gwiazdy oddają Ci cześć<br/>Tyś jest wszechmocny, wielki Pan<br/>Twa władza i moc wiecznie trwa, wiecznie trwa.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Niech świątynia Twoja<br/>Wypełnia się chwałą.<br/>Niech nasze głosy Ciebie czczą.<br/>Niech świątynia Twoja wypełnia się chwałą<br/>Niech głośno instrumenty brzmią.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>/ Niech świątynia Twoja<br/>Wypełnia się chwałą.<br/>Niech nasze głosy Ciebie czczą.<br/>Niech świątynia Twoja wypełnia się chwałą<br/>Niech głośno instrumenty brzmią. /×2</lines>
+    </verse>
+  </lyrics>
+</song>

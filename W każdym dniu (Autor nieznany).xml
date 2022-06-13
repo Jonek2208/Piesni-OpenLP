@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.9.4" modifiedIn="OpenLP 2.9.4" modifiedDate="2022-06-13T17:59:46">
+  <properties>
+    <titles>
+      <title>W każdym dniu</title>
+    </titles>
+    <verseOrder>v1 c1 v1 c1</verseOrder>
+    <authors>
+      <author>Autor nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>W każdym dniu szukać Ciebie chcę<br/>Duszą mą, Panie mój<br/>Oczyść mnie Swą najświętszą krwią<br/>Daj mi czuć bliskość swą</lines>
+    </verse>
+    <verse name="c1">
+      <lines>/ Panie bądź mocą mą,<br/>Panie bądź mocą mą,<br/>Panie bądź mocą mą już dziś /×2</lines>
+    </verse>
+  </lyrics>
+</song>
